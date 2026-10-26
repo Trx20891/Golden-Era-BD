@@ -1,11 +1,11 @@
 {
   "schema": 2,
   "shop": {
-    "name": "Golden Era bd",
+    "name": "Golden Era BD",
     "tagline": "ছেলে, মেয়ে ও বাচ্চাদের পছন্দের পোশাক, সারা বাংলাদেশে হোম ডেলিভারি।",
-    "logo": "",
-    "waIcon": "",
-    "brandColor": "#1E3A8A",
+    "logo": "images/logo-l5je4cmvno9hac.png",
+    "waIcon": "images/waIcon-2wcgvqmvnlmn45.png",
+    "brandColor": "#ff0000",
     "heroEyebrow": "নতুন কালেকশন এসেছে",
     "heroTitle": "পছন্দের পোশাক, সারা বাংলাদেশে হোম ডেলিভারি",
     "heroSub": "ছেলে, মেয়ে ও বাচ্চাদের নতুন কালেকশন। পছন্দ করুন, অর্ডার কনফার্ম করুন, হাতে পেয়ে টাকা দিন।",
@@ -28,16 +28,21 @@
     ],
     "copyright": "© {year} Rafid Ahammed. সর্বস্বত্ব সংরক্ষিত।",
     "orderEmail": "bleachtd72@gmail.com",
+    "emailjsService": "service_cikx8lm",
+    "emailjsTemplate": "template_aqkckko",
+    "emailjsKey": "T5oFlRhRlVCDoxEQL",
     "contactEmail": "bleachtd72@gmail.com",
-    "phone": "",
-    "whatsapp": "",
-    "facebook": "",
-    "address": "",
-    "bkash": "",
-    "nagad": "",
+    "phone": "01906818233",
+    "whatsapp": "01928187197",
+    "facebook": "https://www.facebook.com/share/1F6AqstdcY/",
+    "address": "Mohammadpur, Dhaka, Bangladesh",
+    "bkash": "01984918437",
+    "nagad": "01928187197",
     "feeIn": 60,
     "feeOut": 120,
-    "freeOver": 0
+    "freeOver": 0,
+    "ogImage": "",
+    "favicon": ""
   },
   "categories": [
     {
@@ -133,7 +138,7 @@
       "id": "e-winter",
       "name": "শীতের কালেকশন",
       "color": "#243B7A",
-      "active": true
+      "active": false
     },
     {
       "id": "e-eid",
@@ -146,9 +151,255 @@
       "name": "পূজা কালেকশন",
       "color": "#B4421E",
       "active": false
+    },
+    {
+      "id": "ewsreoc",
+      "name": "World Cup Collection",
+      "color": "#ff0000",
+      "active": true
     }
   ],
   "products": [
+    {
+      "id": "ptbe3sd",
+      "code": "RB-111",
+      "name": "Trendy Kids Hoodie Set",
+      "cat": "c-kids",
+      "sub": "k-boy",
+      "events": [
+        "e-winter"
+      ],
+      "price": 650,
+      "old": 999,
+      "sizes": [
+        "1-2y",
+        "3-4y",
+        "5-6y",
+        "7-8y",
+        "9-10y"
+      ],
+      "desc": "✓ ফেব্রিক্সঃ ওয়ান সাইড ব্রাশ প্রিমিয়াম কোয়ালিটি।\n✓ হুডি এন্ড প্যান্ট ফেব্রিক্স ২৮০-৩০০ জি.এস.এম।\n✓ প্রিন্টঃ প্রিমিয়াম কোয়ালিটি ডি.টি.এফ প্রিন্ট।\n\n📏 হুডি সাইজঃ\n🔹 ১–২ বছর ➜ বডি ২৪ । লং ১৪ ইঞ্চি।\n🔹 ৩–৪ বছর ➜ বডি ২৬ । লং ১৬ ইঞ্চি।\n🔹 ৫–৬ বছর ➜ বডি ২৮ । লং ১৮ ইঞ্চি।\n🔹 ৭–৮ বছর ➜ বডি ৩০ । লং ২০ ইঞ্চি।\n🔹 ৯–১০ বছর ➜ বডি ৩২ । লং ২২ ইঞ্চি।\n\n🩳 প্যান্ট সাইজঃ\n🔸 ১–২ বছর ➜ কোমর ১৭ । লং ১৮ ইঞ্চি।\n🔸 ৩–৪ বছর ➜ কোমর ১৯ । লং ২১ ইঞ্চি।\n🔸 ৫–৬ বছর ➜ কোমর ২১ । লং ২৪ ইঞ্চি।\n🔸 ৭–৮ বছর ➜ কোমর ২৩ । লং ২৭ ইঞ্চি।\n🔸 ৯–১০ বছর ➜ কোমর ২৫ । লং ৩০ ইঞ্চি।",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "v8zeear",
+          "name": "লিলাক",
+          "hex": "#d4b1ed",
+          "imgs": [
+            "images/z4e004mvnnyh9f.jpg",
+            "images/uisd6hmvnnyj6d.jpg",
+            "images/rk9vctmvnnyk4j.jpg",
+            "images/5yqocnmvnnymkc.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p96oody",
+      "code": "RB-112",
+      "name": "Trendy Kids Hoodie Set",
+      "cat": "c-kids",
+      "sub": "k-girl",
+      "events": [
+        "e-winter"
+      ],
+      "price": 650,
+      "old": 999,
+      "sizes": [
+        "1-2y",
+        "3-4y",
+        "5-6y",
+        "7-8y",
+        "9-10y"
+      ],
+      "desc": "✓ ফেব্রিক্সঃ ওয়ান সাইড ব্রাশ প্রিমিয়াম কোয়ালিটি।\n✓ হুডি এন্ড প্যান্ট ফেব্রিক্স ২৮০-৩০০ জি.এস.এম।\n✓ প্রিন্টঃ প্রিমিয়াম কোয়ালিটি ডি.টি.এফ প্রিন্ট।\n\n📏 হুডি সাইজঃ\n🔹 ১–২ বছর ➜ বডি ২৪ । লং ১৪ ইঞ্চি।\n🔹 ৩–৪ বছর ➜ বডি ২৬ । লং ১৬ ইঞ্চি।\n🔹 ৫–৬ বছর ➜ বডি ২৮ । লং ১৮ ইঞ্চি।\n🔹 ৭–৮ বছর ➜ বডি ৩০ । লং ২০ ইঞ্চি।\n🔹 ৯–১০ বছর ➜ বডি ৩২ । লং ২২ ইঞ্চি।\n\n🩳 প্যান্ট সাইজঃ\n🔸 ১–২ বছর ➜ কোমর ১৭ । লং ১৮ ইঞ্চি।\n🔸 ৩–৪ বছর ➜ কোমর ১৯ । লং ২১ ইঞ্চি।\n🔸 ৫–৬ বছর ➜ কোমর ২১ । লং ২৪ ইঞ্চি।\n🔸 ৭–৮ বছর ➜ কোমর ২৩ । লং ২৭ ইঞ্চি।\n🔸 ৯–১০ বছর ➜ কোমর ২৫ । লং ৩০ ইঞ্চি।",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "v9k2sk2",
+          "name": "pink",
+          "hex": "#ff00ff",
+          "imgs": [
+            "images/kucc46mvno0kcb.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p3gii6j",
+      "code": "RB-114",
+      "name": "Trendy Kids Hoodie Set (copy)",
+      "cat": "c-kids",
+      "sub": "",
+      "events": [
+        "e-winter"
+      ],
+      "price": 650,
+      "old": 999,
+      "sizes": [
+        "1-2y",
+        "3-4y",
+        "5-6y",
+        "7-8y",
+        "9-10y"
+      ],
+      "desc": "✓ ফেব্রিক্সঃ ওয়ান সাইড ব্রাশ প্রিমিয়াম কোয়ালিটি।\n✓ হুডি এন্ড প্যান্ট ফেব্রিক্স ২৮০-৩০০ জি.এস.এম।\n✓ প্রিন্টঃ প্রিমিয়াম কোয়ালিটি ডি.টি.এফ প্রিন্ট।\n\n📏 হুডি সাইজঃ\n🔹 ১–২ বছর ➜ বডি ২৪ । লং ১৪ ইঞ্চি।\n🔹 ৩–৪ বছর ➜ বডি ২৬ । লং ১৬ ইঞ্চি।\n🔹 ৫–৬ বছর ➜ বডি ২৮ । লং ১৮ ইঞ্চি।\n🔹 ৭–৮ বছর ➜ বডি ৩০ । লং ২০ ইঞ্চি।\n🔹 ৯–১০ বছর ➜ বডি ৩২ । লং ২২ ইঞ্চি।\n\n🩳 প্যান্ট সাইজঃ\n🔸 ১–২ বছর ➜ কোমর ১৭ । লং ১৮ ইঞ্চি।\n🔸 ৩–৪ বছর ➜ কোমর ১৯ । লং ২১ ইঞ্চি।\n🔸 ৫–৬ বছর ➜ কোমর ২১ । লং ২৪ ইঞ্চি।\n🔸 ৭–৮ বছর ➜ কোমর ২৩ । লং ২৭ ইঞ্চি।\n🔸 ৯–১০ বছর ➜ কোমর ২৫ । লং ৩০ ইঞ্চি।",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vso2k7c",
+          "name": "pink",
+          "hex": "#ff00ff",
+          "imgs": [
+            "images/kucc46mvno0kcb.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pxz9hv9",
+      "code": "RB-113",
+      "name": "Trendy Kids Hoodie Set",
+      "cat": "c-kids",
+      "sub": "",
+      "events": [
+        "e-winter"
+      ],
+      "price": 650,
+      "old": 999,
+      "sizes": [
+        "1-2y",
+        "3-4y",
+        "5-6y",
+        "7-8y",
+        "9-10y"
+      ],
+      "desc": "✓ ফেব্রিক্সঃ ওয়ান সাইড ব্রাশ প্রিমিয়াম কোয়ালিটি।\n✓ হুডি এন্ড প্যান্ট ফেব্রিক্স ২৮০-৩০০ জি.এস.এম।\n✓ প্রিন্টঃ প্রিমিয়াম কোয়ালিটি ডি.টি.এফ প্রিন্ট।\n\n📏 হুডি সাইজঃ\n🔹 ১–২ বছর ➜ বডি ২৪ । লং ১৪ ইঞ্চি।\n🔹 ৩–৪ বছর ➜ বডি ২৬ । লং ১৬ ইঞ্চি।\n🔹 ৫–৬ বছর ➜ বডি ২৮ । লং ১৮ ইঞ্চি।\n🔹 ৭–৮ বছর ➜ বডি ৩০ । লং ২০ ইঞ্চি।\n🔹 ৯–১০ বছর ➜ বডি ৩২ । লং ২২ ইঞ্চি।\n\n🩳 প্যান্ট সাইজঃ\n🔸 ১–২ বছর ➜ কোমর ১৭ । লং ১৮ ইঞ্চি।\n🔸 ৩–৪ বছর ➜ কোমর ১৯ । লং ২১ ইঞ্চি।\n🔸 ৫–৬ বছর ➜ কোমর ২১ । লং ২৪ ইঞ্চি।\n🔸 ৭–৮ বছর ➜ কোমর ২৩ । লং ২৭ ইঞ্চি।\n🔸 ৯–১০ বছর ➜ কোমর ২৫ । লং ৩০ ইঞ্চি।",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vw9yt9j",
+          "name": "লিলাক",
+          "hex": "#c8b6f5",
+          "imgs": [
+            "images/0637bqmvno1a8b.jpg",
+            "images/6t2ax4mvno1cau.jpg",
+            "images/baki8qmvno1dgb.jpg",
+            "images/lv5g8mmvno1emo.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p1mm6uq",
+      "code": "RB-110",
+      "name": "Puja Hit Lama Sharee with Blouse Piece",
+      "cat": "c-girls",
+      "sub": "g-saree",
+      "events": [
+        "e-puja"
+      ],
+      "price": 850,
+      "old": 1200,
+      "sizes": [
+        "Free",
+        "Size"
+      ],
+      "desc": "বাজেট ফ্রেন্ডলি দামে সুন্দর ও আকর্ষণীয় লামা সিল্ক শাড়ি।\nআরামদায়ক ফেব্রিক ও জমকালো বর্ডার ডিজাইনের এই শাড়িটি উৎসবে পড়ার উপযুক্ত।\nProduct Details\n🌸 বাজেট ফ্রেন্ডলি লামা সিল্ক\n🌸 শাড়ির দৈর্ঘ্য: ১২ হাত\n🌸 সাথে থাকছে রানিং ব্লাউজ পিস\n🌸 সুন্দর ও আকর্ষণীয় বর্ডার ডিজাইন\n🌸 আরামদায়ক ও স্টাইলিশ কালেকশন",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "",
+      "video": "https://youtu.be/_C9hdlHtQW0?si=fNQcDz8YwH4mmKGX",
+      "variants": [
+        {
+          "id": "v08586o",
+          "name": "Gold",
+          "hex": "#cf9117",
+          "imgs": [
+            "images/d6webamvnn305h.jpg",
+            "images/0h50tfmvnn35en.jpg",
+            "images/broo0kmvnn36u8.jpg",
+            "images/5c09vgmvnn39x4.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pt0blcm",
+      "code": "RB-109",
+      "name": "Stylish Denim Shirt",
+      "cat": "c-boys",
+      "sub": "s-shirt",
+      "events": [],
+      "price": 850,
+      "old": 1500,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "Product Details:\nপ্রোডাক্টের ধরন: মেনস ডেনিম শার্ট\nফেব্রিক্স: ১০০% প্রিমিয়াম ডেনিম\nকোয়ালিটি: এক্সপোর্ট কোয়ালিটি\nওয়াশ: প্রিমিয়াম ডেনিম ওয়াশ\nফেব্রিক্সের ধরন: সফট ও আরামদায়ক\nডিজাইন: ফুল স্লিভ, বাটন ফ্রন্ট ও ডুয়াল চেস্ট পকেট\nফিনিশিং: প্রিমিয়াম স্টিচিং ও স্মার্ট লুক\nকালার ও ওয়াশ: গ্যারান্টিযুক্ত\nএভাইলেবল সাইজঃ M, L, XL, XXL",
+      "soldOut": false,
+      "visible": true,
+      "featured": true,
+      "badge": "",
+      "video": "videos/r12gvgmvnl6ptz.mp4",
+      "variants": [
+        {
+          "id": "viime85",
+          "name": "অলিভ",
+          "hex": "#8f7354",
+          "imgs": [
+            "images/j9ro1amvnl38hc.jpg",
+            "images/qbwcaymvnl3sg9.jpg",
+            "images/dinuksmvnl3tgk.jpg",
+            "images/soxcmvmvnl47ir.jpg"
+          ]
+        },
+        {
+          "id": "vta7k64",
+          "name": "কফি",
+          "hex": "#4c4c56",
+          "imgs": [
+            "images/dp7ee4mvnl3f5l.jpg"
+          ]
+        },
+        {
+          "id": "vjlktrf",
+          "name": "ধূসর",
+          "hex": "#7888ab",
+          "imgs": [
+            "images/uspmc4mvnl3jx0.jpg"
+          ]
+        },
+        {
+          "id": "vbismw9",
+          "name": "কালো",
+          "hex": "#131415",
+          "imgs": [
+            "images/2e0yw1mvnl3oms.jpg"
+          ]
+        }
+      ]
+    },
     {
       "id": "p1",
       "code": "RB-101",
@@ -459,7 +710,7 @@
       "desc": "কালো বডি, সাদা কনট্রাস্ট স্লিভ, স্ন্যাপ বোতাম, রিবড কলার ও হেম। হাতে ২৩ নম্বর, বুকে অক্ষর প্রিন্ট।",
       "soldOut": false,
       "visible": true,
-      "featured": true,
+      "featured": false,
       "badge": "",
       "video": "",
       "variants": [
@@ -516,4 +767,4 @@
       ]
     }
   ]
-}
+        }
