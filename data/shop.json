@@ -161,6 +161,75 @@
   ],
   "products": [
     {
+      "id": "pwhww9q",
+      "code": "RB-134",
+      "name": "Embroidery Hoodie",
+      "cat": "c-boys",
+      "sub": "s-sweat",
+      "events": [
+        "e-winter"
+      ],
+      "price": 850,
+      "old": 1300,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "প্রিমিয়াম কোয়ালিটির ৩০০ GSM ফিলিপস কটন ফেব্রিক্সের স্টাইলিশ হুডি।\nআকর্ষণীয় কালার কম্বিনেশন ও প্রিমিয়াম এমব্রয়ডারি ডিজাইনে শীতে দেবে স্মার্ট লুক।\n\n📌 প্রোডাক্ট ডিটেইলসঃ\n🧵 ফেব্রিক্স: প্রিমিয়াম ফিলিপস কটন\n⚖️ GSM: ৩০০ GSM (হেভিওয়েট)\n🪡 ডিজাইন: প্রিমিয়াম এমব্রয়ডারি\n👕 ফিটিং: রেগুলার ফিট\n🧥 নেক টাইপ: হুডেড নেক\n✋ স্লিভ: ফুল স্লিভ\n🎨 কালার: মাল্টিকালার কালার ব্লক ডিজাইন\n❄️ কমফোর্ট: সফট, উষ্ণ ও ব্রিদেবল\n✨ কোয়ালিটি: প্রিমিয়াম ফিনিশিং ও মজবুত স্টিচিং\n🌡️ উপযোগী: শীতকাল ও ঠান্ডা আবহাওয়া\n📏 সাইজ: M, L, XL, XXL\n\nSize Measurement:\nM = Chest: 39\" | Length: 27\"\nL = Chest: 41\" | Length: 28\"\nXL = Chest: 43\" | Length: 29\"\nXXL = Chest: 45\" | Length: 30\"",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vtyb27x",
+          "name": "সাদা",
+          "hex": "#efeeec",
+          "imgs": [
+            "images/a7uyhkmvov5og3.jpg",
+            "images/8y9z3smvov5pvj.jpg",
+            "images/kx4usfmvov5r6e.jpg",
+            "images/g5w1k7mvov5u00.jpg"
+          ]
+        },
+        {
+          "id": "v6ex2gp",
+          "name": "লাল কালো",
+          "hex": "#000000",
+          "imgs": [
+            "images/qosd1pmvov5wrm.jpg"
+          ]
+        },
+        {
+          "id": "vfkvvtm",
+          "name": "মেরুন",
+          "hex": "#6e0b18",
+          "imgs": [
+            "images/vg3kf3mvov6g78.jpg"
+          ]
+        },
+        {
+          "id": "vdacfs3",
+          "name": "বেইজ",
+          "hex": "#996a14",
+          "imgs": [
+            "images/hounenmvov6iqc.jpg"
+          ]
+        },
+        {
+          "id": "v9bie21",
+          "name": "কফি",
+          "hex": "#55522b",
+          "imgs": [
+            "images/pxzrrymvov6zuv.jpg"
+          ]
+        }
+      ]
+    },
+    {
       "id": "p9qo077",
       "code": "RB-123",
       "name": "Hoodie for Winter",
