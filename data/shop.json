@@ -161,6 +161,39 @@
   ],
   "products": [
     {
+      "id": "pz3ye95",
+      "code": "RB-136",
+      "name": "Diamond Quilted Padding Jacket",
+      "cat": "c-boys",
+      "sub": "s-jacket",
+      "events": [],
+      "price": 1350,
+      "old": 2200,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "প্রিমিয়াম এক্সপোর্ট কোয়ালিটির স্টাইলিশ প্যাডেড জ্যাকেট, যা দেবে আকর্ষণীয় লুক ও আরামদায়ক অনুভূতি।\nগ্লসি ফিনিশ, স্মার্ট ডায়মন্ড কুইল্টেড ডিজাইন ও হালকা প্যাডিং—শীতের জন্য পারফেক্ট।\nবডিতে সুইং এর মত যে শেপ আছে, ওইটা সুইং না, ডট ইফেক্ট, রোদ্রে বা লাইটে ডায়মন্ডের মত গ্লেস দিবে।\n\n📌 প্রোডাক্ট ডিটেইলসঃ\nপ্রোডাক্ট টাইপ: প্যাডেড জ্যাকেট।\nফিচার: ফ্রন্ট জিপার, স্ট্যান্ড কলার ও দুই পাশে পকেট।\nডিজাইন: ডায়মন্ড কুইল্টেড।\nফিনিশিং: গ্লসি ফিনিশ।\n\nSize Measurement:\nM - Chest: 40\", Length: 27\"\nL - Chest: 42\", Length: 28\"\nXL - Chest: 44\", Length: 29\"",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "v8cz4ih",
+          "name": "কালো",
+          "hex": "#2f2e2f",
+          "imgs": [
+            "images/q9iublmvovc23c.jpg",
+            "images/3a4i2amvovc36w.jpg",
+            "images/hud3oomvovc45q.jpg"
+          ]
+        }
+      ]
+    },
+    {
       "id": "po7gej9",
       "code": "RB-135",
       "name": "Export Quality Winter Jacket",
