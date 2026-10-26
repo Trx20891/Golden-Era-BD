@@ -169,6 +169,65 @@
   ],
   "products": [
     {
+      "id": "p0c4p8g",
+      "code": "RB-201",
+      "name": "Formal Official Cotton Check Shirt",
+      "cat": "c-boys",
+      "sub": "s-shirt",
+      "events": [],
+      "price": 750,
+      "old": 999,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "Fabric details:\nMaterial: Oxford Cotton\nQuality: 100% Premium\nVery comfortable & high-quality Fabric\nColor and Wash Granted\n\nSize M, L, XL, XXL\nM = Chest 40\", Length 28\", collar-15\nL = Chest 42\", Length 29\" , collar-15.5\nXL = Chest 44\", Length 30\", collar-16\nXXL= Chest 46\", Length 31\" , collar-16.5",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "",
+      "video": "",
+      "variants": [
+        {
+          "id": "v78vgqh",
+          "name": "গোলাপি",
+          "hex": "#cd7274",
+          "imgs": [
+            "images/pjk31gmvoyolrq.jpg",
+            "images/jcilbdmvoyooms.jpg",
+            "images/emcn3jmvoyopov.jpg",
+            "images/ov20lxmvoyp2na.jpg"
+          ]
+        },
+        {
+          "id": "vvlfwjf",
+          "name": "বেইজ",
+          "hex": "#d1b28f",
+          "imgs": [
+            "images/59b51imvoyotcd.jpg"
+          ]
+        },
+        {
+          "id": "vzouo0q",
+          "name": "ছাই রঙ",
+          "hex": "#ccb6ad",
+          "imgs": [
+            "images/g9g1g5mvoyovbi.jpg"
+          ]
+        },
+        {
+          "id": "v1esc58",
+          "name": "ধূসর",
+          "hex": "#756f6a",
+          "imgs": [
+            "images/9lubs5mvoyoyv3.jpg"
+          ]
+        }
+      ]
+    },
+    {
       "id": "pe6tgh3",
       "code": "RB-200",
       "name": "Indian Tuba Lama Silk saree",
