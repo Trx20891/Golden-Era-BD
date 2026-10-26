@@ -169,6 +169,55 @@
   ],
   "products": [
     {
+      "id": "pe07zug",
+      "code": "RB-181",
+      "name": "Golap Gown Three Piece",
+      "cat": "c-girls",
+      "sub": "g-three",
+      "events": [],
+      "price": 1150,
+      "old": 1580,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "Golap Gown Three Piece\n\nDesign: Golap Gown Dress\nFabrics: Cotton\nKamiz: Cotton printed and sequence less\nSelowar: Cotton Printed\nOrna Cotton Printed\nKamiz Long: 44/46\n\nSize Measurement:\nS =34/36\nM=38/40\nL=42\nXL=44\nXXl 46",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "",
+      "video": "",
+      "variants": [
+        {
+          "id": "v0cufjn",
+          "name": "ছাই রঙ",
+          "hex": "#b5b2aa",
+          "imgs": [
+            "images/jze012mvoy2kza.jpg"
+          ]
+        },
+        {
+          "id": "vfg1jyk",
+          "name": "কালো",
+          "hex": "#141310",
+          "imgs": [
+            "images/h8clqwmvoy2n52.jpg"
+          ]
+        },
+        {
+          "id": "v6flqyy",
+          "name": "মেরুন",
+          "hex": "#4e0f16",
+          "imgs": [
+            "images/kymifomvoy2or0.jpg"
+          ]
+        }
+      ]
+    },
+    {
       "id": "pu1jb3f",
       "code": "RB-180",
       "name": "Dragon Three Piece",
