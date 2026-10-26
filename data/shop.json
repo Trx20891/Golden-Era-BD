@@ -161,6 +161,81 @@
   ],
   "products": [
     {
+      "id": "p8i823t",
+      "code": "RB-137",
+      "name": "Ribbed High Neck Sweater",
+      "cat": "c-girls",
+      "sub": "",
+      "events": [],
+      "price": 600,
+      "old": 999,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "প্রিমিয়াম কোয়ালিটির স্টাইলিশ রিবড হাই নেক সোয়েটার।\n💚 আরামদায়ক কটন ফেব্রিক ও এলিগেন্ট ডিজাইনে শীতের ফ্যাশনে আনুন স্মার্ট লুক।\n\n📌 প্রোডাক্ট ডিটেইলসঃ\nফেব্রিক: ১০০% কটন।\nফেব্রিক টাইপ: ২/২ রিবড কটন।\nGSM: ৩০০+ GSM।\nডিজাইন: স্টাইলিশ রিবড হাই নেক।\nওয়াশ: এনজাইম ও সিলিকন ওয়াশ।\nকমফোর্ট: নরম, স্ট্রেচেবল ও ত্বকবান্ধব ফেব্রিক।\nকোয়ালিটি: ১০০% এক্সপোর্ট কোয়ালিটি স্টিচ ও ফিনিশিং।\nব্যবহার: ক্যাজুয়াল ও ফরমাল—দুই ক্ষেত্রেই মানানসই।\n\nSize Measurement:\nM — Length 27\" | Chest 38\"\nL — Length 28\" | Chest 40\"\nXL — Length 29\" | Chest 42\"\nXXL — Length 30\" | Chest 44\"",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "v6bv3l6",
+          "name": "কালো",
+          "hex": "#100f12",
+          "imgs": [
+            "images/e08euemvovet51.jpg",
+            "images/irzrzqmvovev3j.jpg",
+            "images/3alsqcmvovew4h.jpg",
+            "images/gc6qpemvoveyfi.jpg"
+          ]
+        },
+        {
+          "id": "v66048j",
+          "name": "সাদা",
+          "hex": "#f2f2f2",
+          "imgs": [
+            "images/08z4x4mvovf088.jpg"
+          ]
+        },
+        {
+          "id": "v8272mo",
+          "name": "সবুজ",
+          "hex": "#0b130f",
+          "imgs": [
+            "images/7nvk42mvovf26g.jpg"
+          ]
+        },
+        {
+          "id": "v7yhf7b",
+          "name": "খইরি",
+          "hex": "#31080d",
+          "imgs": [
+            "images/5xkm95mvovfa26.jpg"
+          ]
+        },
+        {
+          "id": "v5tlfzj",
+          "name": "বেইজ",
+          "hex": "#d3b093",
+          "imgs": [
+            "images/lcpz2amvovfia9.jpg"
+          ]
+        },
+        {
+          "id": "vcp45nq",
+          "name": "কফি",
+          "hex": "#4c4b33",
+          "imgs": [
+            "images/s45d9fmvovfkw6.jpg"
+          ]
+        }
+      ]
+    },
+    {
       "id": "pz3ye95",
       "code": "RB-136",
       "name": "Diamond Quilted Padding Jacket",
