@@ -169,6 +169,73 @@
   ],
   "products": [
     {
+      "id": "pjs4qlt",
+      "code": "RB-174",
+      "name": "New product",
+      "cat": "c-boys",
+      "sub": "sl3smfm",
+      "events": [],
+      "price": 800,
+      "old": 1000,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "স্টাইলিশ লুকের সাথে আরামদায়ক ও ব্যবহার উপযোগী প্রিমিয়াম ফাইভ পকেট কার্গো প্যান্ট।\nদৈনন্দিন ব্যবহার, ক্যাজুয়াল আউটিং কিংবা ট্রাভেল—সব ক্ষেত্রেই মানানসই।\n\nপ্রোডাক্ট ডিটেইলসঃ\n👖 প্যান্ট: কার্গো ফাইভ পকেট ডিজাইন।\n🧵 কাপড়: প্রিমিয়াম চায়না দুবাই ফেব্রিক্স।\n✨ আরামদায়ক ও স্টাইলিশ ডিজাইন।\n🎒 প্রয়োজনীয় জিনিস রাখার জন্য একাধিক পকেট।\n👌 দৈনন্দিন ব্যবহারের জন্য উপযোগী।\n\n📏 Size Measurement (কোমর সাইজ):\nM = 28–29\nL = 30–31\nXL = 32–33\nXXL = 34–35",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "",
+      "video": "",
+      "variants": [
+        {
+          "id": "virqcza",
+          "name": "বেইজ",
+          "hex": "#d8c6b3",
+          "imgs": [
+            "images/sn3l2gmvox45oj.jpg",
+            "images/hu0g4smvox4798.jpg",
+            "images/84bnmxmvox48jg.jpg",
+            "images/bgm4jumvox4a9u.jpg"
+          ]
+        },
+        {
+          "id": "vsd92d9",
+          "name": "কফি",
+          "hex": "#494949",
+          "imgs": [
+            "images/tifebjmvox4c5p.jpg"
+          ]
+        },
+        {
+          "id": "vx22pmv",
+          "name": "নেবি ব্লু",
+          "hex": "#474b75",
+          "imgs": [
+            "images/70798nmvox4hj4.jpg"
+          ]
+        },
+        {
+          "id": "vk1nx44",
+          "name": "বাদামি",
+          "hex": "#545549",
+          "imgs": [
+            "images/a7nj5amvox61av.jpg"
+          ]
+        },
+        {
+          "id": "v1g7jp4",
+          "name": "ছাই রঙ",
+          "hex": "#aab3d8",
+          "imgs": [
+            "images/2g0675mvox63o1.jpg"
+          ]
+        }
+      ]
+    },
+    {
       "id": "p5ei3uy",
       "code": "RB-149",
       "name": "Acid Wash Drop Shoulder TShirt",
