@@ -51,24 +51,24 @@
       "visible": true,
       "subs": [
         {
-          "id": "s-polo",
-          "name": "পোলো টিশার্ট"
-        },
-        {
-          "id": "s-shirt",
-          "name": "শার্ট"
-        },
-        {
-          "id": "s-drop",
-          "name": "ড্রপ শোল্ডার"
-        },
-        {
           "id": "s-sweat",
           "name": "সোয়েটশার্ট"
         },
         {
           "id": "s-jacket",
           "name": "জ্যাকেট"
+        },
+        {
+          "id": "s-drop",
+          "name": "ড্রপ শোল্ডার"
+        },
+        {
+          "id": "s-polo",
+          "name": "পোলো টিশার্ট"
+        },
+        {
+          "id": "s-shirt",
+          "name": "শার্ট"
         },
         {
           "id": "s-half",
