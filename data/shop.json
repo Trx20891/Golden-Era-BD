@@ -169,6 +169,39 @@
   ],
   "products": [
     {
+      "id": "p0tc9j1",
+      "code": "RB-202",
+      "name": "Arong Cotton Three Piece",
+      "cat": "c-girls",
+      "sub": "g-three",
+      "events": [],
+      "price": 1400,
+      "old": 2200,
+      "sizes": [
+        "M=(36-38)",
+        "L=(40-42)",
+        "XL=(44-46)"
+      ],
+      "desc": "আরং কটনের ডিজিটাল প্রিন্ট এন্ড লেইজ ওয়ার্ক করা রেডিমেড থ্রীপিস।\n\nডিটেইলসঃ\nকামিজঃ আরং কটন।\nওরনাঃ কটন।\nসেলয়ারঃ আরং কটন।\nবডি সাইজ ৩৬ থেকে ৪৬ পর্যন্ত।\n\nসাইজ ডিটেইলসঃ\nM = (36-38)\nL = (40-42)\nXL = (44-46)",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "",
+      "video": "",
+      "variants": [
+        {
+          "id": "v1khckj",
+          "name": "ছাই রঙ",
+          "hex": "#d7c8c8",
+          "imgs": [
+            "images/xzfsx3mvoys8jk.jpg",
+            "images/unansemvoysads.jpg",
+            "images/rovrbamvoysbev.jpg"
+          ]
+        }
+      ]
+    },
+    {
       "id": "p0c4p8g",
       "code": "RB-201",
       "name": "Formal Official Cotton Check Shirt",
