@@ -169,9 +169,58 @@
   ],
   "products": [
     {
+      "id": "piugjtl",
+      "code": "RB-175",
+      "name": "Narrow Slim Fit Denim Pant",
+      "cat": "c-boys",
+      "sub": "s-baggy",
+      "events": [],
+      "price": 850,
+      "old": 1500,
+      "sizes": [
+        "28",
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
+      "desc": "প্যান্টগুলো স্লিম ফিট, সেমি নেরো।\nফেব্রিকঃ কটন ৯৮±% + স্প্যানডেস্ক\nসামান্য স্ট্রিচ ফেব্রিক\n১২± আউন্স ফেব্রিক।\nওয়াশ করা ফেব্রিক তাই রয়েছে কালারের নিশ্চয়তা\nপ্রত্যেকটি প্যান্ট সুইং,ফিনিশিং করা।\n\nপ্যান্টগুলো যেহেতু সেমি ন্যারো এবং স্লিম ফিট তাই\nবেশি স্বাস্থ্যবান মানুষের জন্য প্যান্টি ফিট নয়।\nহালকা এবং মিডিয়াম স্বাস্থ্যের জন্য পারফেক্ট।\n\nআপনার কোমরের সঠিক মাপ নিয়ে অর্ডার করুন।\nআমাদের প্রোডাক্টগুলো মেজারমেন্ট টেপ দিয়ে মাপা।\n\nঅরিজিনাল প্যান্টের ভিডিও দেখে অর্ডার করুন।\n\nপ্যান্টের সাইজঃ\n28,30,32,34,36",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "",
+      "video": "https://youtu.be/TGSLWS8yQ_0?si=jdBjCUonIvkuDV_x",
+      "variants": [
+        {
+          "id": "va3vebl",
+          "name": "আকাশি",
+          "hex": "#7197c6",
+          "imgs": [
+            "images/buzis5mvoxhz5d.jpg"
+          ]
+        },
+        {
+          "id": "v8ys260",
+          "name": "কালো",
+          "hex": "#272c32",
+          "imgs": [
+            "images/7cd65ymvoxi16q.jpg"
+          ]
+        },
+        {
+          "id": "vp8eq26",
+          "name": "বাদামি",
+          "hex": "#4e5357",
+          "imgs": [
+            "images/cuubmdmvoxi2rf.jpg"
+          ]
+        }
+      ]
+    },
+    {
       "id": "pjs4qlt",
       "code": "RB-174",
-      "name": "New product",
+      "name": "China Five Pocket Cargo Pant",
       "cat": "c-boys",
       "sub": "sl3smfm",
       "events": [],
