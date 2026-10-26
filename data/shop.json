@@ -161,6 +161,82 @@
   ],
   "products": [
     {
+      "id": "peh9q4k",
+      "code": "RB-108",
+      "name": "Embroidery Full Sleeve Polo Shirt",
+      "cat": "c-boys",
+      "sub": "s-polo",
+      "events": [],
+      "price": 390,
+      "old": 800,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "সফট ফিল ও প্রিমিয়াম টেক্সচারের এই ফুল স্লিভ পোলো শার্টটি আপনার শীতের স্টাইলকে করবে আরও আকর্ষণীয়।\n🔥 স্টাইলিশ লুক, প্রিমিয়াম কোয়ালিটি ও আরামদায়ক ফিটিং—সবকিছু একসাথে!\n\n📌 প্রোডাক্ট ডিটেইলসঃ\n🧵 ফ্যাব্রিক: প্রিমিয়াম চায়না কর্ড ফেব্রিক্স।\n🔲 ফ্যাব্রিক প্যাটার্ন: স্কয়ার বক্স টেক্সচার।\n🪡 ডিজাইন: প্রিমিয়াম এমব্রয়ডারি লোগো।\n⚖️ জিএসএম: ২৩০ জিএসএম ফেব্রিক্স।\n☁️ সফট ফিল: নরম ও আরামদায়ক।\n👔 কলার: প্রিমিয়াম স্টাইলিশ কাপ কলার।\n😎 লুক: স্টাইলিশ ও প্রিমিয়াম লুক।\n❄️ উপযোগিতা: শীতের জন্য পারফেক্ট।\n\n📏 Size Measurement:\nM — Length: 27\" | Chest: 38\"\nL — Length: 28\" | Chest: 40\"\nXL — Length: 29\" | Chest: 42\"",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vr8elj9",
+          "name": "কালো",
+          "hex": "#161516",
+          "imgs": [
+            "images/ld3mprmvotr7yq.jpg",
+            "images/uqxgqymvottn5m.jpg",
+            "images/pl2b7fmvottoe5.jpg",
+            "images/g8xq19mvottq5j.jpg"
+          ]
+        },
+        {
+          "id": "vt7p9qf",
+          "name": "সাদা",
+          "hex": "#e7e9f3",
+          "imgs": [
+            "images/51aveqmvotrgcm.jpg",
+            "images/6ho7o8mvottw7d.jpg",
+            "images/nzfgydmvottx6i.jpg"
+          ]
+        },
+        {
+          "id": "vo9hwc1",
+          "name": "ডিপ বুলু",
+          "hex": "#343526",
+          "imgs": [
+            "images/i1urwrmvotriko.jpg"
+          ]
+        },
+        {
+          "id": "v8eynoe",
+          "name": "কফি",
+          "hex": "#692f2a",
+          "imgs": [
+            "images/ql6vjrmvotrkze.jpg"
+          ]
+        },
+        {
+          "id": "vu2lo6i",
+          "name": "মেরুন",
+          "hex": "#6f1c24",
+          "imgs": [
+            "images/70gaxdmvott5ax.jpg"
+          ]
+        },
+        {
+          "id": "vsz8hmd",
+          "name": "নিল",
+          "hex": "#0b1a33",
+          "imgs": [
+            "images/2cu8komvottd2c.jpg"
+          ]
+        }
+      ]
+    },
+    {
       "id": "phgz8rh",
       "code": "RB-101",
       "name": "Kids Hoodie Set",
