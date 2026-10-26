@@ -165,6 +165,39 @@
   ],
   "products": [
     {
+      "id": "pdl2d09",
+      "code": "RB-147",
+      "name": "New product",
+      "cat": "c-girls",
+      "sub": "sog1rlk",
+      "events": [],
+      "price": 850,
+      "old": 999,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "থাই মাইক্রো জর্জেট কাপড়ের ডিজিটাল প্রিন্ট রেডিমেড টু পিস।\nকামিজঃ থাই মাইক্রো জর্জেট।\nসালোয়ারঃ থাই মাইক্রো জর্জেট।\nকামিজ লং ৩৮ ইঞ্চি।\nপ্যান্ট লং ৩৯ ইঞ্চি।\nবডি সাইজঃ\nL=36-38,\nXL=40-42,\nXXL=44-46",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "",
+      "video": "",
+      "variants": [
+        {
+          "id": "vq2970t",
+          "name": "সাদা",
+          "hex": "#ffffff",
+          "imgs": [
+            "images/ryg87bmvovzwgm.jpg",
+            "images/skplqjmvow03ez.jpg"
+          ]
+        }
+      ]
+    },
+    {
       "id": "pa9zjh8",
       "code": "RB-144",
       "name": "Premium Cotton Full Sleeve Shirt",
