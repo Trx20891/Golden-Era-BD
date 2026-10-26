@@ -230,6 +230,144 @@
       ]
     },
     {
+      "id": "p6ony54",
+      "code": "RB-114",
+      "name": "Premium Sweatshirt",
+      "cat": "c-boys",
+      "sub": "s-sweat",
+      "events": [
+        "e-winter"
+      ],
+      "price": 650,
+      "old": 999,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "প্রিমিয়াম কটন ফেব্রিক্সের স্টাইলিশ গ্রাফিক প্রিন্টেড সুয়েটশার্ট, যা আপনার ক্যাজুয়াল লুকে যোগ করবে আধুনিক ও আকর্ষণীয় স্টাইল।\n২৯০+ GSM-এর আরামদায়ক ফেব্রিক্স ও এক্সপোর্ট কোয়ালিটি ফিনিশিং শীতের দিনে দেবে আরাম ও স্মার্ট লুক।\n\n📌 Product Details:\nপ্রোডাক্টের ধরন: মেনস ডিটিএফ প্রিন্টেড সুয়েটশার্ট।\nফেব্রিক্স: ফিলিস কটন (Phillies Cotton)।\nGSM: 290+ GSM ফেব্রিক্স।\nডিজাইন: স্টাইলিশ গ্রাফিক প্রিন্ট।\nস্টাইল: ক্যাজুয়াল ও ট্রেন্ডি।\nআরামদায়ক ও ত্বকবান্ধব ফেব্রিক্স।\nফিনিশিং: প্রিমিয়াম কোয়ালিটি।\n\nSize Measurement:\nM = Length 27\", Chest 38\"\nL = Length 28\", Chest 40\"\nXL = Length 29\", Chest 42\"\nXXL = Length 30\", Chest 44\"",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vy58v0v",
+          "name": "বেইজ",
+          "hex": "#d8b88e",
+          "imgs": [
+            "images/iz8ri5mvou9lyj.jpg",
+            "images/vlc6bqmvou9o9b.jpg",
+            "images/afxvxnmvou9p9p.jpg",
+            "images/4wbdw5mvou9qvg.jpg"
+          ]
+        },
+        {
+          "id": "vz60l69",
+          "name": "সাদা",
+          "hex": "#f0f1f5",
+          "imgs": [
+            "images/rxdb33mvou9tev.jpg"
+          ]
+        },
+        {
+          "id": "v11c68n",
+          "name": "কালো",
+          "hex": "#080808",
+          "imgs": [
+            "images/cs4zcnmvou9uv9.jpg"
+          ]
+        },
+        {
+          "id": "v1cei36",
+          "name": "খইরি",
+          "hex": "#35060e",
+          "imgs": [
+            "images/4g243omvou9wsm.jpg"
+          ]
+        },
+        {
+          "id": "vqub4lz",
+          "name": "সবুজ",
+          "hex": "#073029",
+          "imgs": [
+            "images/zxvdqfmvou9yok.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p6bwxx4",
+      "code": "RB-115",
+      "name": "Premium Sweatshirt",
+      "cat": "c-boys",
+      "sub": "s-sweat",
+      "events": [
+        "e-winter"
+      ],
+      "price": 650,
+      "old": 999,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "প্রিমিয়াম কটন ফেব্রিক্সের স্টাইলিশ গ্রাফিক প্রিন্টেড সুয়েটশার্ট, যা আপনার ক্যাজুয়াল লুকে যোগ করবে আধুনিক ও আকর্ষণীয় স্টাইল।\n২৯০+ GSM-এর আরামদায়ক ফেব্রিক্স ও এক্সপোর্ট কোয়ালিটি ফিনিশিং শীতের দিনে দেবে আরাম ও স্মার্ট লুক।\n\n📌 Product Details:\nপ্রোডাক্টের ধরন: মেনস ডিটিএফ প্রিন্টেড সুয়েটশার্ট।\nফেব্রিক্স: ফিলিস কটন (Phillies Cotton)।\nGSM: 290+ GSM ফেব্রিক্স।\nডিজাইন: স্টাইলিশ গ্রাফিক প্রিন্ট।\nস্টাইল: ক্যাজুয়াল ও ট্রেন্ডি।\nআরামদায়ক ও ত্বকবান্ধব ফেব্রিক্স।\nফিনিশিং: প্রিমিয়াম কোয়ালিটি।\n\nSize Measurement:\nM = Length 27\", Chest 38\"\nL = Length 28\", Chest 40\"\nXL = Length 29\", Chest 42\"\nXXL = Length 30\", Chest 44\"",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vexewb8",
+          "name": "বেইজ",
+          "hex": "#d8b88e",
+          "imgs": [
+            "images/byjps9mvoua8y3.jpg",
+            "images/kwjg1umvouaadj.jpg",
+            "images/ygka3gmvouabl6.jpg",
+            "images/2k2888mvouacxo.jpg"
+          ]
+        },
+        {
+          "id": "v4emc72",
+          "name": "সাদা",
+          "hex": "#f0f1f5",
+          "imgs": [
+            "images/mvog0hmvouaekr.jpg"
+          ]
+        },
+        {
+          "id": "vnudv2h",
+          "name": "কালো",
+          "hex": "#080808",
+          "imgs": [
+            "images/v1hv84mvouafzd.jpg"
+          ]
+        },
+        {
+          "id": "v80o7f2",
+          "name": "খইরি",
+          "hex": "#35060e",
+          "imgs": [
+            "images/4r37krmvouahgg.jpg"
+          ]
+        },
+        {
+          "id": "va40q13",
+          "name": "সবুজ",
+          "hex": "#073029",
+          "imgs": [
+            "images/inotgmmvouaipj.jpg"
+          ]
+        }
+      ]
+    },
+    {
       "id": "pfvb6kt",
       "code": "RB-112",
       "name": "Premium Sweatshirt",
