@@ -161,6 +161,116 @@
   ],
   "products": [
     {
+      "id": "pwruoi8",
+      "code": "RB-140",
+      "name": "Cotton Varsity Jacket",
+      "cat": "c-boys",
+      "sub": "s-jacket",
+      "events": [],
+      "price": 800,
+      "old": 1000,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "প্রোডাক্ট ডিটেইলসঃ\n🧥 প্রোডাক্ট টাইপ: ভার্সিটি জ্যাকেট।\n🧵 ফেব্রিক: ১০০% কটন, ওয়ান সাইড ব্রাশ।\n🎨 ডিজাইন: প্রিমিয়াম DTF প্রিন্ট।\n⭐ ফেব্রিক কোয়ালিটি: ৩০০± GSM।\n👕 উপযোগী: ছেলে ও মেয়ে উভয়ের জন্য।\n🛍️ অর্ডার করার আগে সাইজ মেজারমেন্ট দেখে নিন।\n\n📏 Available Sizes: M, L, XL\nM = Chest-40, Length-26\nL = Chest-42, Length-27\nXL= Chest-44,Length-28",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "",
+      "video": "",
+      "variants": [
+        {
+          "id": "vrld3u5",
+          "name": "কালো M",
+          "hex": "#1a1a1b",
+          "imgs": [
+            "images/fye1bfmvovnbtk.jpg"
+          ]
+        },
+        {
+          "id": "vs8vp17",
+          "name": "বোতল সবুজ R",
+          "hex": "#18372a",
+          "imgs": [
+            "images/slz1zemvovnebj.jpg"
+          ]
+        },
+        {
+          "id": "ve3kfga",
+          "name": "কালো A",
+          "hex": "#252525",
+          "imgs": [
+            "images/x3vflmmvovnt0e.jpg"
+          ]
+        },
+        {
+          "id": "v6cmzf3",
+          "name": "মেরুন R",
+          "hex": "#4a1923",
+          "imgs": [
+            "images/aa9qyrmvovo0jd.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p663d10",
+      "code": "RB-141",
+      "name": "Cotton Varsity Jacket",
+      "cat": "c-boys",
+      "sub": "s-jacket",
+      "events": [],
+      "price": 800,
+      "old": 1000,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "প্রোডাক্ট ডিটেইলসঃ\n🧥 প্রোডাক্ট টাইপ: ভার্সিটি জ্যাকেট।\n🧵 ফেব্রিক: ১০০% কটন, ওয়ান সাইড ব্রাশ।\n🎨 ডিজাইন: প্রিমিয়াম DTF প্রিন্ট।\n⭐ ফেব্রিক কোয়ালিটি: ৩০০± GSM।\n👕 উপযোগী: ছেলে ও মেয়ে উভয়ের জন্য।\n🛍️ অর্ডার করার আগে সাইজ মেজারমেন্ট দেখে নিন।\n\n📏 Available Sizes: M, L, XL\nM = Chest-40, Length-26\nL = Chest-42, Length-27\nXL= Chest-44,Length-28",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "",
+      "video": "",
+      "variants": [
+        {
+          "id": "vhg6hoa",
+          "name": "কালো M",
+          "hex": "#1a1a1b",
+          "imgs": [
+            "images/hsknxzmvovocjs.jpg"
+          ]
+        },
+        {
+          "id": "vdgx0j2",
+          "name": "বোতল সবুজ R",
+          "hex": "#18372a",
+          "imgs": [
+            "images/22wtdpmvovof2q.jpg"
+          ]
+        },
+        {
+          "id": "v5wbe6p",
+          "name": "কালো A",
+          "hex": "#252525",
+          "imgs": [
+            "images/kofmwnmvovogrb.jpg"
+          ]
+        },
+        {
+          "id": "v89a1zd",
+          "name": "মেরুন R",
+          "hex": "#4a1923",
+          "imgs": [
+            "images/2yv0i8mvovoisq.jpg"
+          ]
+        }
+      ]
+    },
+    {
       "id": "pjg9kos",
       "code": "RB-138",
       "name": "Kids Sherpa Padding Jacket",
