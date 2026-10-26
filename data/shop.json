@@ -169,6 +169,51 @@
   ],
   "products": [
     {
+      "id": "pfeoxck",
+      "code": "RB-182",
+      "name": "Sequence Embroidery Three Piece",
+      "cat": "c-girls",
+      "sub": "g-three",
+      "events": [],
+      "price": 1300,
+      "old": 1890,
+      "sizes": [
+        "S",
+        "=34/36",
+        "M=38/40",
+        "L=42",
+        "XL=44",
+        "XXl",
+        "46"
+      ],
+      "desc": "Kamiz Fabrics Cotton\nDesign: Embroidery and Sequence\nOrna Cotton embroidery\nSelowar Cotton\n\nSize Measurement:\nS =34/36\nM=38/40\nL=42\nXL=44\nXXl 46",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "",
+      "video": "https://youtu.be/ST5pBI4QT1o?si=X28ixvjNk809747T",
+      "variants": [
+        {
+          "id": "vy1nfho",
+          "name": "কালো",
+          "hex": "#000000",
+          "imgs": [
+            "images/q4wedhmvoy4ywy.jpg",
+            "images/tn2ekgmvoy5auo.jpg"
+          ]
+        },
+        {
+          "id": "v3hchcq",
+          "name": "কমলা",
+          "hex": "#a89006",
+          "imgs": [
+            "images/ih47fumvoy58l5.jpg",
+            "images/5c82svmvoy5c1l.jpg"
+          ]
+        }
+      ]
+    },
+    {
       "id": "pe07zug",
       "code": "RB-181",
       "name": "Golap Gown Three Piece",
