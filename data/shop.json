@@ -161,6 +161,202 @@
   ],
   "products": [
     {
+      "id": "p4ol4kl",
+      "code": "RB-109",
+      "name": "Premium Sweatshirt",
+      "cat": "c-boys",
+      "sub": "s-sweat",
+      "events": [
+        "e-winter"
+      ],
+      "price": 650,
+      "old": 999,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "প্রিমিয়াম কটন ফেব্রিক্সের স্টাইলিশ গ্রাফিক প্রিন্টেড সুয়েটশার্ট, যা আপনার ক্যাজুয়াল লুকে যোগ করবে আধুনিক ও আকর্ষণীয় স্টাইল।\n২৯০+ GSM-এর আরামদায়ক ফেব্রিক্স ও এক্সপোর্ট কোয়ালিটি ফিনিশিং শীতের দিনে দেবে আরাম ও স্মার্ট লুক।\n\n📌 Product Details:\nপ্রোডাক্টের ধরন: মেনস ডিটিএফ প্রিন্টেড সুয়েটশার্ট।\nফেব্রিক্স: ফিলিস কটন (Phillies Cotton)।\nGSM: 290+ GSM ফেব্রিক্স।\nডিজাইন: স্টাইলিশ গ্রাফিক প্রিন্ট।\nস্টাইল: ক্যাজুয়াল ও ট্রেন্ডি।\nআরামদায়ক ও ত্বকবান্ধব ফেব্রিক্স।\nফিনিশিং: প্রিমিয়াম কোয়ালিটি।\n\nSize Measurement:\nM = Length 27\", Chest 38\"\nL = Length 28\", Chest 40\"\nXL = Length 29\", Chest 42\"\nXXL = Length 30\", Chest 44\"",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vfd3dnc",
+          "name": "বেইজ",
+          "hex": "#d8b88e",
+          "imgs": [
+            "images/1uwsy8mvotxlzp.jpg",
+            "images/mlvp8imvotyh37.jpg",
+            "images/6yhvylmvotyieh.jpg",
+            "images/mv8rjtmvotykxi.jpg"
+          ]
+        },
+        {
+          "id": "vq0g4fi",
+          "name": "সাদা",
+          "hex": "#f0f1f5",
+          "imgs": [
+            "images/e6g87zmvotxoeg.jpg"
+          ]
+        },
+        {
+          "id": "vnulhtz",
+          "name": "কালো",
+          "hex": "#080808",
+          "imgs": [
+            "images/v1ocodmvotxr88.jpg"
+          ]
+        },
+        {
+          "id": "v69tog6",
+          "name": "খইরি",
+          "hex": "#35060e",
+          "imgs": [
+            "images/hqr0m1mvotxtuc.jpg"
+          ]
+        },
+        {
+          "id": "vjgnnnv",
+          "name": "সবুজ",
+          "hex": "#073029",
+          "imgs": [
+            "images/pk7jcomvoty7r2.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pbpt6p6",
+      "code": "RB-111",
+      "name": "Premium Sweatshirt",
+      "cat": "c-boys",
+      "sub": "s-sweat",
+      "events": [
+        "e-winter"
+      ],
+      "price": 650,
+      "old": 999,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "প্রিমিয়াম কটন ফেব্রিক্সের স্টাইলিশ গ্রাফিক প্রিন্টেড সুয়েটশার্ট, যা আপনার ক্যাজুয়াল লুকে যোগ করবে আধুনিক ও আকর্ষণীয় স্টাইল।\n২৯০+ GSM-এর আরামদায়ক ফেব্রিক্স ও এক্সপোর্ট কোয়ালিটি ফিনিশিং শীতের দিনে দেবে আরাম ও স্মার্ট লুক।\n\n📌 Product Details:\nপ্রোডাক্টের ধরন: মেনস ডিটিএফ প্রিন্টেড সুয়েটশার্ট।\nফেব্রিক্স: ফিলিস কটন (Phillies Cotton)।\nGSM: 290+ GSM ফেব্রিক্স।\nডিজাইন: স্টাইলিশ গ্রাফিক প্রিন্ট।\nস্টাইল: ক্যাজুয়াল ও ট্রেন্ডি।\nআরামদায়ক ও ত্বকবান্ধব ফেব্রিক্স।\nফিনিশিং: প্রিমিয়াম কোয়ালিটি।\n\nSize Measurement:\nM = Length 27\", Chest 38\"\nL = Length 28\", Chest 40\"\nXL = Length 29\", Chest 42\"\nXXL = Length 30\", Chest 44\"",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vzg2xm5",
+          "name": "সবুজ",
+          "hex": "#073029",
+          "imgs": [
+            "images/87w7xhmvou05dc.jpg",
+            "images/ebthammvou0mxl.jpg",
+            "images/lsim5gmvou0okm.jpg",
+            "images/vd6e9hmvou0pyz.jpg"
+          ]
+        },
+        {
+          "id": "vvzptx6",
+          "name": "মেরুন",
+          "hex": "#4c0917",
+          "imgs": [
+            "images/uxhipnmvou07h7.jpg"
+          ]
+        },
+        {
+          "id": "v3pwr8i",
+          "name": "কালো",
+          "hex": "#0f0f0f",
+          "imgs": [
+            "images/qewus6mvou0bo1.jpg"
+          ]
+        },
+        {
+          "id": "v43pv1l",
+          "name": "সাদা",
+          "hex": "#f3f4f8",
+          "imgs": [
+            "images/cjb6aymvou0gv5.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pgdpeop",
+      "code": "RB-110",
+      "name": "Premium Sweatshirt",
+      "cat": "c-boys",
+      "sub": "s-sweat",
+      "events": [
+        "e-winter"
+      ],
+      "price": 650,
+      "old": 999,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "প্রিমিয়াম কটন ফেব্রিক্সের স্টাইলিশ গ্রাফিক প্রিন্টেড সুয়েটশার্ট, যা আপনার ক্যাজুয়াল লুকে যোগ করবে আধুনিক ও আকর্ষণীয় স্টাইল।\n২৯০+ GSM-এর আরামদায়ক ফেব্রিক্স ও এক্সপোর্ট কোয়ালিটি ফিনিশিং শীতের দিনে দেবে আরাম ও স্মার্ট লুক।\n\n📌 Product Details:\nপ্রোডাক্টের ধরন: মেনস ডিটিএফ প্রিন্টেড সুয়েটশার্ট।\nফেব্রিক্স: ফিলিস কটন (Phillies Cotton)।\nGSM: 290+ GSM ফেব্রিক্স।\nডিজাইন: স্টাইলিশ গ্রাফিক প্রিন্ট।\nস্টাইল: ক্যাজুয়াল ও ট্রেন্ডি।\nআরামদায়ক ও ত্বকবান্ধব ফেব্রিক্স।\nফিনিশিং: প্রিমিয়াম কোয়ালিটি।\n\nSize Measurement:\nM = Length 27\", Chest 38\"\nL = Length 28\", Chest 40\"\nXL = Length 29\", Chest 42\"\nXXL = Length 30\", Chest 44\"",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vrh2wgz",
+          "name": "বেইজ",
+          "hex": "#d8b88e",
+          "imgs": [
+            "images/of7r8xmvotz7zd.jpg"
+          ]
+        },
+        {
+          "id": "vsgyorx",
+          "name": "সাদা",
+          "hex": "#f0f1f5",
+          "imgs": [
+            "images/dastjjmvotzak5.jpg"
+          ]
+        },
+        {
+          "id": "vi4pqdm",
+          "name": "কালো",
+          "hex": "#080808",
+          "imgs": [
+            "images/1yf83zmvotzdzn.jpg"
+          ]
+        },
+        {
+          "id": "vwfuf6d",
+          "name": "খইরি",
+          "hex": "#35060e",
+          "imgs": [
+            "images/cq2yfumvotzgd1.jpg"
+          ]
+        },
+        {
+          "id": "v2y62ul",
+          "name": "সবুজ",
+          "hex": "#073029",
+          "imgs": [
+            "images/e23nxqmvotzhr4.jpg"
+          ]
+        }
+      ]
+    },
+    {
       "id": "peh9q4k",
       "code": "RB-108",
       "name": "Embroidery Full Sleeve Polo Shirt",
