@@ -161,6 +161,72 @@
   ],
   "products": [
     {
+      "id": "pfdb1mq",
+      "code": "RB-143",
+      "name": "Trendy Denim Shirt",
+      "cat": "c-boys",
+      "sub": "s-shirt",
+      "events": [],
+      "price": 750,
+      "old": 999,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "একদম প্রিমিয়াম কোয়ালিটির স্টাইলিশ লুকের বেস্ট চয়েসের ডেনিম শার্ট।\nএই শার্টটির জিএসএম ২২০+ তাই শীতের জন্য একদম পারফেক্ট ড্রেস।\n\nপ্রোডাক্ট ডিটেইলসঃ\n🧵ফেব্রিক্সঃ প্রিমিয়াম ডেনিম কাপড়।\n💪 GSM: 220+ — মোটা, মজবুত ও টেকসই ফেব্রিক।\n👌 স্টাইলিশ পকেট ডিজাইন ও আকর্ষণীয় ডেনিম লুক।\n🔘 এই শার্টটিতে রয়েছে প্রিমিয়াম স্নাপ বাটুন।\n😎 স্মার্ট ও ক্যাজুয়াল — দুই ধরনের লুকেই মানানসই।\n✨ উন্নতমানের সুইং ফিনিশিং।\n💯 দীর্ঘদিন ব্যবহারের উপযোগী।\n📏সাইজঃ M, L, XL\n\nSize Measurement:\nM = Body-40 | Long-28\nL = Body-42 | Long-29\nXL = Body-44 | Long-30",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "",
+      "video": "",
+      "variants": [
+        {
+          "id": "vslsqi1",
+          "name": "কালো",
+          "hex": "#282a2d",
+          "imgs": [
+            "images/ln5w6ymvovs9e8.jpg",
+            "images/wv19nhmvovsb8h.jpg",
+            "images/xkzkh0mvovsde0.jpg",
+            "images/534o9smvovsfd6.jpg"
+          ]
+        },
+        {
+          "id": "vfuqnio",
+          "name": "নেভি ব্লু",
+          "hex": "#112952",
+          "imgs": [
+            "images/611esumvovsi9f.jpg"
+          ]
+        },
+        {
+          "id": "vyug7ca",
+          "name": "নীল",
+          "hex": "#4c77ad",
+          "imgs": [
+            "images/20bzhrmvovskji.jpg"
+          ]
+        },
+        {
+          "id": "vgjn7ur",
+          "name": "ধূসর",
+          "hex": "#666978",
+          "imgs": [
+            "images/gprfo2mvovsmvw.jpg"
+          ]
+        },
+        {
+          "id": "v5kg81z",
+          "name": "কালো 2",
+          "hex": "#141414",
+          "imgs": [
+            "images/ev1hr0mvovsrgg.jpg"
+          ]
+        }
+      ]
+    },
+    {
       "id": "pzelam0",
       "code": "RB-142",
       "name": "Chinese Winter Shacket Jacket",
