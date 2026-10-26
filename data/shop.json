@@ -169,6 +169,44 @@
   ],
   "products": [
     {
+      "id": "pqkl1ts",
+      "code": "RB-183",
+      "name": "Embroidery Three Piece",
+      "cat": "c-girls",
+      "sub": "g-three",
+      "events": [
+        "e-eid"
+      ],
+      "price": 1600,
+      "old": 2500,
+      "sizes": [
+        "S=34/36",
+        "M=38/40",
+        "L=42",
+        "XL=44",
+        "XXL=46"
+      ],
+      "desc": "এই ঈদের স্পেশাল এমব্রয়ডারি কাজের পারফেক্ট কালার কম্বিনেশনের প্রিমিয়াম কোয়ালিটির থ্রি পিস।\n\nফেব্রিক্সঃ\nকামিজঃ টেনসিল কটন কাপড়ে এমব্রয়ডারি কাজ।\nসেলয়ারঃ টেনসিল কটন কাপড়ে এমব্রয়ডারি কাজ।\nওড়নাঃ কটন কাপড়ে এমব্রয়ডারি কাজ।\nকামিজ লং ৪০/৪২ ইঞ্চি।\nবডি সাইজঃ S, M, L, XL, XXL\n\nSize Measurement:\nS=34/36\nM=38/40\nL=42\nXL=44\nXXL=46",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "",
+      "video": "https://youtu.be/Je7jIBbVZc0?feature=shared",
+      "variants": [
+        {
+          "id": "vdo73qw",
+          "name": "গোলাপি",
+          "hex": "#ce95ab",
+          "imgs": [
+            "images/vn2wg1mvoy7nw9.jpg",
+            "images/rw23exmvoy7tgf.jpg",
+            "images/pb4xqnmvoy7w5i.jpg",
+            "images/e82or5mvoy7x2f.jpg"
+          ]
+        }
+      ]
+    },
+    {
       "id": "pfeoxck",
       "code": "RB-182",
       "name": "Sequence Embroidery Three Piece",
