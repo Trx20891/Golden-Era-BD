@@ -169,6 +169,54 @@
   ],
   "products": [
     {
+      "id": "pu1jb3f",
+      "code": "RB-180",
+      "name": "Dragon Three Piece",
+      "cat": "c-girls",
+      "sub": "g-three",
+      "events": [],
+      "price": 1000,
+      "old": 2300,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "প্রিমিয়াম কটনের উপর সুন্দর আফসান প্রিন্ট, কুচি কুচি ডিজাইন, টারসেল ও লেস ওয়ার্কের চমৎকার কম্বিনেশন—যা আপনাকে দেবে স্টাইলিশ ও আকর্ষণীয় লুক। ✨\nএমব্রয়ডারি করা সালোয়ার ও টু-শেড শিফন জর্জেট ওড়না পুরো সেটটিকে আরও সুন্দর করে তুলেছে। 🌸\n\n📌 Product Details\n• ডিজাইন: Premium Afsan Print & Embroidery Work।\n• ফেব্রিক্স: Premium Pure Cotton।\n• কুর্তি: Golden Afsan Print।\n• কুর্তি ডিজাইন: কুচি কুচি ডিজাইন, টারসেল ও লেস ওয়ার্ক।\n• সালোয়ার: Pure Cotton, পুরো সালোয়ারে Embroidery Work।\n• ওড়না: Two Shade Chiffon Georgette।\n• সালোয়ার সাইজ: Free Size (38/40)।\n\n📏 Size Measurement\nL = 36/38\nXL = 40/42\nXXL = 44/46",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "",
+      "video": "",
+      "variants": [
+        {
+          "id": "v2d392o",
+          "name": "কফি",
+          "hex": "#2b2f33",
+          "imgs": [
+            "images/ed70k2mvoxx1dm.jpg"
+          ]
+        },
+        {
+          "id": "v2drenc",
+          "name": "অলিভ",
+          "hex": "#74714d",
+          "imgs": [
+            "images/s2cvwrmvoxx2xw.jpg"
+          ]
+        },
+        {
+          "id": "v5pgnby",
+          "name": "ছাই রঙ",
+          "hex": "#d1cfc8",
+          "imgs": [
+            "images/jxtq0xmvoxx6n7.jpg"
+          ]
+        }
+      ]
+    },
+    {
       "id": "p0269y0",
       "code": "RB-176",
       "name": "Baggy Cargo Denim Pant",
