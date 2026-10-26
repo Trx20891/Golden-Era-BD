@@ -161,6 +161,82 @@
   ],
   "products": [
     {
+      "id": "pzelam0",
+      "code": "RB-142",
+      "name": "Chinese Winter Shacket Jacket",
+      "cat": "c-boys",
+      "sub": "s-jacket",
+      "events": [
+        "e-winter"
+      ],
+      "price": 1500,
+      "old": 2200,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "শীতের জন্য স্টাইলিশ ও আরামদায়ক শ্যাকেট জ্যাকেট, যা আপনার লুকে আনবে স্মার্ট ও ট্রেন্ডি ফ্যাশন।\nপ্রিমিয়াম কোয়ালিটির ফেব্রিক এবং আকর্ষণীয় ডিজাইন প্রতিদিনের ব্যবহারের জন্য উপযুক্ত।\n\n📌 প্রোডাক্ট ডিটেইলসঃ\n🧥 প্রোডাক্ট টাইপ: উইন্টার শ্যাকেট জ্যাকেট।\n🧵 ম্যাটেরিয়াল: কটন, উল ব্লেন্ড, ফ্ল্যানেল, কর্ডুরয়, পোলার ফ্লিস, ডেনিম ও সিনথেটিক ব্লেন্ড কম্বিনেশন।\n👕 ডিজাইন: স্টাইলিশ শার্ট-স্টাইল জ্যাকেট।\n✨ ব্যবহার: ক্যাজুয়াল ও আউটডোর ওয়্যার।\n\n📏 Available Sizes: M, L, XL\nM - Length 27\" chest 40\".\nL - Length 28\" chest: 42\".\nXL - Length 29\" chest 44\"",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "v3h9uv5",
+          "name": "কালো",
+          "hex": "#121212",
+          "imgs": [
+            "images/n9jl1omvovq78t.jpg",
+            "images/am0ch9mvovq8ly.jpg",
+            "images/keeqk8mvovqa5b.jpg",
+            "images/kc5sr8mvovqbzn.jpg"
+          ]
+        },
+        {
+          "id": "v5dv7u7",
+          "name": "ধূসর",
+          "hex": "#929094",
+          "imgs": [
+            "images/0hobw4mvovqfvb.jpg"
+          ]
+        },
+        {
+          "id": "vj2ubrr",
+          "name": "অলিভ",
+          "hex": "#977553",
+          "imgs": [
+            "images/61k0xomvovqhqo.jpg"
+          ]
+        },
+        {
+          "id": "voa1u9y",
+          "name": "ছাই রঙ",
+          "hex": "#b9aa97",
+          "imgs": [
+            "images/dp2zv3mvovqjko.jpg"
+          ]
+        },
+        {
+          "id": "vy0o358",
+          "name": "কালো",
+          "hex": "#0c0c0f",
+          "imgs": [
+            "images/4gjd38mvovqlqz.jpg"
+          ]
+        },
+        {
+          "id": "vdci6ip",
+          "name": "মেরুন",
+          "hex": "#0d0c0f",
+          "imgs": [
+            "images/dlyjuqmvovqpn7.jpg"
+          ]
+        }
+      ]
+    },
+    {
       "id": "pwruoi8",
       "code": "RB-140",
       "name": "Cotton Varsity Jacket",
