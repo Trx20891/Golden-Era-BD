@@ -165,6 +165,73 @@
   ],
   "products": [
     {
+      "id": "pnmafqo",
+      "code": "RB-148",
+      "name": "New product",
+      "cat": "c-girls",
+      "sub": "g-three",
+      "events": [],
+      "price": 1280,
+      "old": 2000,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "মাইক্রো স্টিজ ডিজিটাল প্রিন্ট থ্রি-পিস।\nস্টাইলিশ ও এলিগেন্ট ডিজাইনের থাই মাইক্রো স্টিজ কাপড়ে ডিজিটাল প্রিন্টের কাজ করা কালাফুল থ্রি-পিস কালেকশন।\n\n👗থ্রীপিসের ধরনঃ কামিজ, ওড়না এবং সেলয়ার।\n👗কামিজঃ থাই মাইক্রো স্টিজ কাপড়ে ডিজিটাল প্রিন্ট।\n🧣 ওড়নাঃ শিফন জর্জেট কাপড়ে ডিজিটাল প্রিন্ট করা।\n👖সেলোয়ারঃ মাইক্রো স্টিজ কাপড়ে ডিজিটাল প্রিন্ট।\n📏কামিজ লং ৩৮ ইঞ্চি, প্যান্ট লং ৪০ ইঞ্চি বডি সাইজ ৩৮-৪৬ ইঞ্চি।\n\n📏বডি সাইজ ডিটেইলসঃ\nL = 36-38\nXL = 40-42\nXXL = 44-46",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vzsxv5e",
+          "name": "বেইজ",
+          "hex": "#e3c7af",
+          "imgs": [
+            "images/3xjnknmvow3e5p.jpg",
+            "images/0fg1yhmvow3gqt.jpg",
+            "images/t4xtahmvow3hry.jpg",
+            "images/rgv45xmvow3j7l.jpg"
+          ]
+        },
+        {
+          "id": "vkwusle",
+          "name": "ছাই রঙ",
+          "hex": "#b4c5da",
+          "imgs": [
+            "images/bghtf2mvow3kmq.jpg"
+          ]
+        },
+        {
+          "id": "vdkcuzo",
+          "name": "বেইজ + লাল",
+          "hex": "#dacfc7",
+          "imgs": [
+            "images/hdn549mvow3mwg.jpg"
+          ]
+        },
+        {
+          "id": "vcbjozo",
+          "name": "হালকা সবুজ",
+          "hex": "#b5c7b4",
+          "imgs": [
+            "images/v8a0t0mvow3xci.jpg"
+          ]
+        },
+        {
+          "id": "vb9l6xk",
+          "name": "লিলাক",
+          "hex": "#c7aad3",
+          "imgs": [
+            "images/8koz9zmvow4ez5.jpg"
+          ]
+        }
+      ]
+    },
+    {
       "id": "pdl2d09",
       "code": "RB-147",
       "name": "New product",
