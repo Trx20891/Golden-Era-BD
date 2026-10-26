@@ -137,8 +137,8 @@
     {
       "id": "e-winter",
       "name": "শীতের কালেকশন",
-      "color": "#243B7A",
-      "active": false
+      "color": "#ff0000",
+      "active": true
     },
     {
       "id": "e-eid",
@@ -156,7 +156,7 @@
       "id": "ewsreoc",
       "name": "World Cup Collection",
       "color": "#ff0000",
-      "active": true
+      "active": false
     }
   ],
   "products": []
