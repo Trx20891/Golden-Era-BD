@@ -907,13 +907,11 @@
       "price": 1300,
       "old": 1890,
       "sizes": [
-        "S",
-        "=34/36",
+        "S=34/36",
         "M=38/40",
         "L=42",
         "XL=44",
-        "XXl",
-        "46"
+        "XXl=46"
       ],
       "desc": "Kamiz Fabrics Cotton\nDesign: Embroidery and Sequence\nOrna Cotton embroidery\nSelowar Cotton\n\nSize Measurement:\nS =34/36\nM=38/40\nL=42\nXL=44\nXXl 46",
       "soldOut": false,
