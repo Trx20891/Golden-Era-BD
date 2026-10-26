@@ -165,6 +165,122 @@
   ],
   "products": [
     {
+      "id": "p5ei3uy",
+      "code": "RB-149",
+      "name": "Acid Wash Drop Shoulder TShirt",
+      "cat": "c-boys",
+      "sub": "s-drop",
+      "events": [],
+      "price": 570,
+      "old": 900,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "বর্তমানে সবচেয়ে ডিমান্ডেবল এবং কোয়ালিটি সম্পূর্ণ এসিড ওয়াসের ড্রপ সোল্ডার টিশার্ট।\n\nডিটেইলসঃ\nফেব্রিক্সঃ ১০০% কটন এসিড ওয়াস।\nজিএসএমঃ ২২০+ প্লাস জিএসএম।\nড্রপসোল্ডার, পারফেক্ট সাইজ মেজারমেন্ট।\nসফ্ট ফেব্রিক্স, প্রিমিয়াম লুক এবং টেকসই।\n\nAvailable Sizes: M | L | XL\nM – Length: 27 | Chest: 40\nL – Length: 28 | Chest: 42\nXL – Length: 29 | Chest: 44",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vbx28g2",
+          "name": "বেইজ",
+          "hex": "#c8b493",
+          "imgs": [
+            "images/wu3e9gmvow6seg.jpg",
+            "images/j1w3w1mvow6u06.jpg",
+            "images/w9s8ghmvow6v24.jpg",
+            "images/v1rajmmvow6wl6.jpg"
+          ]
+        },
+        {
+          "id": "v91v4yd",
+          "name": "সবুজ",
+          "hex": "#0f4f33",
+          "imgs": [
+            "images/yj05cjmvow6yid.jpg"
+          ]
+        },
+        {
+          "id": "vjlz0h6",
+          "name": "মেরুন",
+          "hex": "#521924",
+          "imgs": [
+            "images/67qmxamvow76j5.jpg"
+          ]
+        },
+        {
+          "id": "vbd3zvs",
+          "name": "কালো",
+          "hex": "#151617",
+          "imgs": [
+            "images/01reqomvow78ts.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pv6xred",
+      "code": "RB-150",
+      "name": "Acid Wash Drop Shoulder TShirt (copy)",
+      "cat": "c-boys",
+      "sub": "s-drop",
+      "events": [],
+      "price": 570,
+      "old": 900,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "বর্তমানে সবচেয়ে ডিমান্ডেবল এবং কোয়ালিটি সম্পূর্ণ এসিড ওয়াসের ড্রপ সোল্ডার টিশার্ট।\n\nডিটেইলসঃ\nফেব্রিক্সঃ ১০০% কটন এসিড ওয়াস।\nজিএসএমঃ ২২০+ প্লাস জিএসএম।\nড্রপসোল্ডার, পারফেক্ট সাইজ মেজারমেন্ট।\nসফ্ট ফেব্রিক্স, প্রিমিয়াম লুক এবং টেকসই।\n\nAvailable Sizes: M | L | XL\nM – Length: 27 | Chest: 40\nL – Length: 28 | Chest: 42\nXL – Length: 29 | Chest: 44",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "v98swfp",
+          "name": "বেইজ",
+          "hex": "#c8b493",
+          "imgs": [
+            "images/ibkixlmvow7km8.jpg",
+            "images/jl46wgmvow7lmg.jpg",
+            "images/4393j8mvow7moi.jpg",
+            "images/i1iptnmvow7nu2.jpg"
+          ]
+        },
+        {
+          "id": "v1pz5r4",
+          "name": "সবুজ",
+          "hex": "#0f4f33",
+          "imgs": [
+            "images/yr0ptlmvow7pn2.jpg"
+          ]
+        },
+        {
+          "id": "vvt74u1",
+          "name": "মেরুন",
+          "hex": "#521924",
+          "imgs": [
+            "images/fzc9t4mvow7qv8.jpg"
+          ]
+        },
+        {
+          "id": "vbbfnp0",
+          "name": "কালো",
+          "hex": "#151617",
+          "imgs": [
+            "images/m3chzkmvow7sfj.jpg"
+          ]
+        }
+      ]
+    },
+    {
       "id": "pnmafqo",
       "code": "RB-148",
       "name": "New product",
