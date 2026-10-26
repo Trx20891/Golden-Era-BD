@@ -161,6 +161,66 @@
   ],
   "products": [
     {
+      "id": "pxcz169",
+      "code": "RB-116",
+      "name": "Denim Shirt",
+      "cat": "c-boys",
+      "sub": "s-shirt",
+      "events": [],
+      "price": 850,
+      "old": 1300,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "3XL"
+      ],
+      "desc": "প্রিমিয়াম সফট ডেনিম ফেব্রিক্সের স্টাইলিশ শার্ট, যা আপনার লুকে আনবে স্মার্ট ও আকর্ষণীয় ভাইব।\nআরামদায়ক ফেব্রিক্স, সুন্দর ওয়াশ ও প্রিমিয়াম ফিনিশিংয়ের কারণে ক্যাজুয়াল এবং আউটডোর ব্যবহারের জন্য উপযুক্ত।\n\n📌 Product Details:\nপ্রোডাক্টের ধরন: মেনস ডেনিম শার্ট\nফেব্রিক্স: ১০০% প্রিমিয়াম ডেনিম\nকোয়ালিটি: এক্সপোর্ট কোয়ালিটি\nওয়াশ: প্রিমিয়াম ডেনিম ওয়াশ\nফেব্রিক্সের ধরন: সফট ও আরামদায়ক\nডিজাইন: ফুল স্লিভ, বাটন ফ্রন্ট ও ডুয়াল চেস্ট পকেট\nফিনিশিং: প্রিমিয়াম স্টিচিং ও স্মার্ট লুক\nকালার ও ওয়াশ: গ্যারান্টিযুক্ত\nএভাইলেবল সাইজঃ M, L, XL, XXL\n\nSize Measurement:\nM = Chest 40\", Length 28\", Collar 15\"\nL = Chest 42\", Length 29\", Collar 15.5\"\nXL = Chest 44\", Length 30\", Collar 16\"\nXXL = Chest 46\", Length 31\", Collar 16.5\"\n3XL = Chest 48\", Length 31\", Collar 17\"",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "v5hr503",
+          "name": "সাদা",
+          "hex": "#f2f2f2",
+          "imgs": [
+            "images/m2cwmkmvoudfiy.jpg",
+            "images/855suemvoudhrm.jpg",
+            "images/4nh9osmvoudiq3.jpg",
+            "images/0dv8qjmvoudk42.jpg"
+          ]
+        },
+        {
+          "id": "viw4y3g",
+          "name": "কালো",
+          "hex": "#151515",
+          "imgs": [
+            "images/35pso5mvoudln4.jpg"
+          ]
+        },
+        {
+          "id": "vnvvh6g",
+          "name": "নীল",
+          "hex": "#3168ac",
+          "imgs": [
+            "images/sep5fkmvoudo8h.jpg"
+          ]
+        },
+        {
+          "id": "v0c1ffm",
+          "name": "আকাশী",
+          "hex": "#c5dcf9",
+          "imgs": [
+            "images/lgw7g2mvoudq1m.jpg"
+          ]
+        }
+      ]
+    },
+    {
       "id": "p4ol4kl",
       "code": "RB-109",
       "name": "Premium Sweatshirt",
