@@ -161,6 +161,41 @@
   ],
   "products": [
     {
+      "id": "po7gej9",
+      "code": "RB-135",
+      "name": "Export Quality Winter Jacket",
+      "cat": "c-boys",
+      "sub": "s-jacket",
+      "events": [
+        "e-winter"
+      ],
+      "price": 1350,
+      "old": 2100,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "প্রিমিয়াম এক্সপোর্ট কোয়ালিটির স্টাইলিশ উইন্টার জ্যাকেট, যা আপনার লুকে যোগ করবে স্মার্ট ও আকর্ষণীয় স্টাইল।\nসফট ফেব্রিক্স, আরামদায়ক ফিটিং ও ক্লাসি ডিজাইনে শীতের জন্য দারুণ একটি পছন্দ।\n\n📌 Product Details\nProduct Type: Winter Jacket\nMaterial: Premium Soft Fabric\nDesign: Minimalist Stylish Design\nCollar: High Neck Stand Collar\nClosure: Front Zipper\nPocket: Two Side Pockets\nSleeve: Full Sleeve\nFit: Regular Fit\n\nSize Measurement:\nM: Chest 38\" | Length 26\"\nL: Chest 40\" | Length 27\"\nXL: Chest 42\" | Length 28\"",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vn8f7zo",
+          "name": "কালো",
+          "hex": "#282828",
+          "imgs": [
+            "images/hngvvimvov9yc4.jpg",
+            "images/zez0d0mvov9zyh.jpg",
+            "images/illjdtmvova154.jpg"
+          ]
+        }
+      ]
+    },
+    {
       "id": "pwhww9q",
       "code": "RB-134",
       "name": "Embroidery Hoodie",
