@@ -161,6 +161,66 @@
   ],
   "products": [
     {
+      "id": "p9qo077",
+      "code": "RB-123",
+      "name": "Hoodie for Winter",
+      "cat": "c-boys",
+      "sub": "s-sweat",
+      "events": [
+        "e-winter"
+      ],
+      "price": 650,
+      "old": 999,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "Main Material: Cotton\nFabrics: Cotton\nPremium Quality\nFabrication: 320(+-)GSM\nSleeve: Full Sleeve\n100% Export Quality Sewing\n\nSize- M, L, XL\nM - Length 28 Chest 38\nL - Length 29 Chest: 40\nXL - Length 30 Chest 42",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "v8yow08",
+          "name": "মেরুন",
+          "hex": "#761329",
+          "imgs": [
+            "images/djlp8kmvouv4tq.jpg",
+            "images/rt7l3umvouv7up.jpg",
+            "images/vbsx3ymvouv8vl.jpg",
+            "images/b8zfsumvouva02.jpg"
+          ]
+        },
+        {
+          "id": "v3ooee4",
+          "name": "মেরুন",
+          "hex": "#751329",
+          "imgs": [
+            "images/ngsyafmvouvc7t.jpg"
+          ]
+        },
+        {
+          "id": "vuhcc2c",
+          "name": "মেরুন",
+          "hex": "#751329",
+          "imgs": [
+            "images/aye05gmvouveh3.jpg"
+          ]
+        },
+        {
+          "id": "vp6czfh",
+          "name": "বাদামি",
+          "hex": "#6f5037",
+          "imgs": [
+            "images/pb7kp0mvouvgrj.jpg"
+          ]
+        }
+      ]
+    },
+    {
       "id": "p8y9woz",
       "code": "RB-121",
       "name": "Denim Shirt",
