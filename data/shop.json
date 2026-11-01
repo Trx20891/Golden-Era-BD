@@ -173,6 +173,73 @@
   ],
   "products": [
     {
+      "id": "pb1p5kp",
+      "code": "RB-215",
+      "name": "Premium China Swing Less Polo Shirt",
+      "cat": "c-boys",
+      "sub": "s-polo",
+      "events": [],
+      "price": 700,
+      "old": 900,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "প্রোডাক্ট ডিটেইলসঃ\n🔹 Sewing-Less Design: একদম নিখুঁত এবং আধুনিক ফিনিশিং।\n🔹 Ultra-Soft China Fabric: যা ত্বকে দেবে সারাদিন আরামদায়ক অনুভূতি।\n🔹 Luxury Details: মেটাল বাটন, যা আপনার ব্যক্তিত্বকে করবে অনন্য।\n🔹 Full Guarantee: রঙ ও কাপড়ের স্থায়িত্ব নিয়ে কোনো চিন্তা নেই, ১০০% গ্যারান্টি!\n🔹 Care Instruction: ব্লিচ ব্যবহার থেকে বিরত থাকুন।\n\nসাইজ: M, L, XL, XXL\nM Size- (Chest-38\",Length-27\")\nL Size -(Chest-40\",Length-28\")\nXL Size- (Chest-42\",Length-29\")\nXXL Size- (Chest-44\",Length-30\")",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "",
+      "video": "",
+      "variants": [
+        {
+          "id": "vt6r0a9",
+          "name": "কালো",
+          "hex": "#101012",
+          "imgs": [
+            "images/yelx8pmvxnab95.jpg",
+            "images/8ouj28mvxnad60.jpg",
+            "images/kpgb0mmvxnae69.jpg",
+            "images/5bzibxmvxnafhw.jpg"
+          ]
+        },
+        {
+          "id": "v8yesnx",
+          "name": "ধুসর",
+          "hex": "#535569",
+          "imgs": [
+            "images/lsk7gxmvxnaj1w.jpg"
+          ]
+        },
+        {
+          "id": "vf2zcuo",
+          "name": "বাদামি",
+          "hex": "#a67a6c",
+          "imgs": [
+            "images/1gpl4imvxnao7t.jpg"
+          ]
+        },
+        {
+          "id": "vw098ag",
+          "name": ".",
+          "hex": "#050405",
+          "imgs": [
+            "images/qcxsb6mvxnazzf.jpg"
+          ]
+        },
+        {
+          "id": "vwc7a1m",
+          "name": "সবুজ ",
+          "hex": "#162833",
+          "imgs": [
+            "images/a68z0mmvxnb7z9.jpg"
+          ]
+        }
+      ]
+    },
+    {
       "id": "pvdmrof",
       "code": "RB-209",
       "name": "Stylish Polo Shirt",
