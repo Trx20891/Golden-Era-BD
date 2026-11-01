@@ -173,6 +173,76 @@
   ],
   "products": [
     {
+      "id": "ptq3pq7",
+      "code": "RB-203",
+      "name": "Denim Shirt",
+      "cat": "c-boys",
+      "sub": "stgrj4f",
+      "events": [
+        "e-winter"
+      ],
+      "price": 750,
+      "old": 1225,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "একদম প্রিমিয়াম কোয়ালিটির স্টাইলিশ লুকের বেস্ট চয়েসের ডেনিম শার্ট।\nএই শার্টটির জিএসএম ২২০+ তাই শীতের জন্য একদম পারফেক্ট ড্রেস।\n\nপ্রোডাক্ট ডিটেইলসঃ\n🧵ফেব্রিক্সঃ প্রিমিয়াম ডেনিম কাপড়।\n💪 GSM: 220+ — মোটা, মজবুত ও টেকসই ফেব্রিক।\n👌 স্টাইলিশ পকেট ডিজাইন ও আকর্ষণীয় ডেনিম লুক।\n🔘 এই শার্টটিতে রয়েছে প্রিমিয়াম স্নাপ বাটুন।\n😎 স্মার্ট ও ক্যাজুয়াল — দুই ধরনের লুকেই মানানসই।\n✨ উন্নতমানের সুইং ফিনিশিং।\n💯 দীর্ঘদিন ব্যবহারের উপযোগী।\n📏সাইজঃ M, L, XL\n\nSize Measurement:\nM = Body-40 | Long-28\nL = Body-42 | Long-29\nXL = Body-44 | Long-30",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "",
+      "video": "",
+      "variants": [
+        {
+          "id": "vca9unb",
+          "name": "কালো",
+          "hex": "#141414",
+          "imgs": [
+            "images/4fluxkmvxintqk.jpg",
+            "images/uz1luymvxio81o.jpg",
+            "images/2gi6m5mvxio995.jpg",
+            "images/64duk5mvxiobxz.jpg"
+          ]
+        },
+        {
+          "id": "v7puocg",
+          "name": "নীল",
+          "hex": "#4c77ad",
+          "imgs": [
+            "images/qochq0mvxinwk7.jpg",
+            "images/8wwnn1mvxiodq0.jpg"
+          ]
+        },
+        {
+          "id": "vzm1shy",
+          "name": "টিল",
+          "hex": "#2e5888",
+          "imgs": [
+            "images/gtssnzmvxinz2o.jpg",
+            "images/zqfg7qmvxiogqs.jpg"
+          ]
+        },
+        {
+          "id": "vwnj2kn",
+          "name": "ধূসর",
+          "hex": "#666978",
+          "imgs": [
+            "images/6m7cbymvxio25a.jpg"
+          ]
+        },
+        {
+          "id": "vxkzv1v",
+          "name": "নেভি ব্লু",
+          "hex": "#112952",
+          "imgs": [
+            "images/10x1wtmvxio502.jpg"
+          ]
+        }
+      ]
+    },
+    {
       "id": "p0tc9j1",
       "code": "RB-202",
       "name": "Arong Cotton Three Piece",
