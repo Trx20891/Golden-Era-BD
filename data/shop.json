@@ -2968,7 +2968,7 @@
       "desc": "এই ঈদের স্পেশাল এমব্রয়ডারি কাজের পারফেক্ট কালার কম্বিনেশনের প্রিমিয়াম কোয়ালিটির থ্রি পিস।\n\nফেব্রিক্সঃ\nকামিজঃ টেনসিল কটন কাপড়ে এমব্রয়ডারি কাজ।\nসেলয়ারঃ টেনসিল কটন কাপড়ে এমব্রয়ডারি কাজ।\nওড়নাঃ কটন কাপড়ে এমব্রয়ডারি কাজ।\nকামিজ লং ৪০/৪২ ইঞ্চি।\nবডি সাইজঃ S, M, L, XL, XXL\n\nSize Measurement:\nS=34/36\nM=38/40\nL=42\nXL=44\nXXL=46",
       "soldOut": false,
       "visible": true,
-      "featured": false,
+      "featured": true,
       "badge": "",
       "video": "https://youtu.be/Je7jIBbVZc0?feature=shared",
       "variants": [
@@ -4175,6 +4175,64 @@
       ]
     },
     {
+      "id": "pydah0x",
+      "code": "RB-268",
+      "name": "Acid Wash Drop Shoulder TShirt  (copy)",
+      "cat": "c-boys",
+      "sub": "s-drop",
+      "events": [],
+      "price": 570,
+      "old": 900,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "বর্তমানে সবচেয়ে ডিমান্ডেবল এবং কোয়ালিটি সম্পূর্ণ এসিড ওয়াসের ড্রপ সোল্ডার টিশার্ট।\n\nডিটেইলসঃ\nফেব্রিক্সঃ ১০০% কটন এসিড ওয়াস।\nজিএসএমঃ ২২০+ প্লাস জিএসএম।\nড্রপসোল্ডার, পারফেক্ট সাইজ মেজারমেন্ট।\nসফ্ট ফেব্রিক্স, প্রিমিয়াম লুক এবং টেকসই।\n\nAvailable Sizes: M | L | XL\nM – Length: 27 | Chest: 40\nL – Length: 28 | Chest: 42\nXL – Length: 29 | Chest: 44",
+      "soldOut": false,
+      "visible": true,
+      "featured": true,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vfzqhk6",
+          "name": "কালো",
+          "hex": "#151717",
+          "imgs": [
+            "images/12dts9mvowhutz.jpg",
+            "images/am3bv0mvowhye0.jpg",
+            "images/wna52emvowhzfx.jpg",
+            "images/drrjv9mvowi202.jpg"
+          ]
+        },
+        {
+          "id": "v9gh9i9",
+          "name": "বেইজ",
+          "hex": "#d2bc97",
+          "imgs": [
+            "images/ohxrbrmvowi5vn.jpg"
+          ]
+        },
+        {
+          "id": "vsje64q",
+          "name": "বোতল সবুজ",
+          "hex": "#115332",
+          "imgs": [
+            "images/vqm065mvowi7r1.jpg"
+          ]
+        },
+        {
+          "id": "vorfayd",
+          "name": "মেরুন",
+          "hex": "#531725",
+          "imgs": [
+            "images/nbx46bmvowi9mp.jpg"
+          ]
+        }
+      ]
+    },
+    {
       "id": "pi6f1g9",
       "code": "RB-154",
       "name": "Acid Wash Drop Shoulder TShirt",
@@ -5322,7 +5380,7 @@
       "desc": "প্রিমিয়াম সফট ডেনিম ফেব্রিক্সের স্টাইলিশ শার্ট, যা আপনার লুকে আনবে স্মার্ট ও আকর্ষণীয় ভাইব।\nআরামদায়ক ফেব্রিক্স, সুন্দর ওয়াশ ও প্রিমিয়াম ফিনিশিংয়ের কারণে ক্যাজুয়াল এবং আউটডোর ব্যবহারের জন্য উপযুক্ত।\n\n📌 Product Details:\nপ্রোডাক্টের ধরন: মেনস ডেনিম শার্ট\nফেব্রিক্স: ১০০% প্রিমিয়াম ডেনিম\nকোয়ালিটি: এক্সপোর্ট কোয়ালিটি\nওয়াশ: প্রিমিয়াম ডেনিম ওয়াশ\nফেব্রিক্সের ধরন: সফট ও আরামদায়ক\nডিজাইন: ফুল স্লিভ, বাটন ফ্রন্ট ও ডুয়াল চেস্ট পকেট\nফিনিশিং: প্রিমিয়াম স্টিচিং ও স্মার্ট লুক\nকালার ও ওয়াশ: গ্যারান্টিযুক্ত\nএভাইলেবল সাইজঃ M, L, XL, XXL\n\nSize Measurement:\nM = Chest 40\", Length 28\", Collar 15\"\nL = Chest 42\", Length 29\", Collar 15.5\"\nXL = Chest 44\", Length 30\", Collar 16\"\nXXL = Chest 46\", Length 31\", Collar 16.5\"\n3XL = Chest 48\", Length 31\", Collar 17\"",
       "soldOut": false,
       "visible": true,
-      "featured": false,
+      "featured": true,
       "badge": "New",
       "video": "",
       "variants": [
