@@ -204,6 +204,72 @@
       ]
     },
     {
+      "id": "p993z60",
+      "code": "RB-214",
+      "name": "Stylish Polo Shirt",
+      "cat": "c-boys",
+      "sub": "s-polo",
+      "events": [],
+      "price": 390,
+      "old": 800,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "Fabric: PK Cotton\nBody -Skin Print\nGsm:210+(-+10)\nExport Quality Seweing\n\nSize: M,L,XL\nSize Description :\nM - ( Chest-38, Long-28)\nL - ( Chest-40, Long-29 )\nXL - ( chest-42, Long-30 )",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "",
+      "video": "",
+      "variants": [
+        {
+          "id": "vnre2ka",
+          "name": "বেইজ",
+          "hex": "#c2a97c",
+          "imgs": [
+            "images/nlptv5mvxn70v4.jpg",
+            "images/68tyofmvxn76d8.jpg",
+            "images/mjkk8imvxn77dg.jpg",
+            "images/s6m3d3mvxn78nc.jpg"
+          ]
+        },
+        {
+          "id": "vyfsakm",
+          "name": "মেরুন",
+          "hex": "#8c182c",
+          "imgs": [
+            "images/kp2nr6mvxn7aqx.jpg"
+          ]
+        },
+        {
+          "id": "vvm1tze",
+          "name": " সবুজ",
+          "hex": "#0b5648",
+          "imgs": [
+            "images/97oo3imvxn7d4q.jpg"
+          ]
+        },
+        {
+          "id": "vk9858v",
+          "name": "ধূসর",
+          "hex": "#6b6b6f",
+          "imgs": [
+            "images/v0a6uwmvxn7hru.jpg"
+          ]
+        },
+        {
+          "id": "vyxqk35",
+          "name": "সাদা",
+          "hex": "#f8f9fa",
+          "imgs": [
+            "images/dyftr4mvxn7jy1.jpg"
+          ]
+        }
+      ]
+    },
+    {
       "id": "pnz85fc",
       "code": "RB-211",
       "name": "Stylish Polo Shirt",
