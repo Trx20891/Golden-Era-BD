@@ -177,6 +177,39 @@
   ],
   "products": [
     {
+      "id": "pqxq5vd",
+      "code": "RB-305",
+      "name": "Digital Print Three Piece",
+      "cat": "c-girls",
+      "sub": "g-three",
+      "events": [],
+      "price": 900,
+      "old": 1200,
+      "sizes": [
+        "L=𝟑6-𝟑8",
+        "XL=40-𝟒2",
+        "XXL=𝟒4-𝟒6"
+      ],
+      "desc": "𝐅𝐚𝐛𝐫𝐢𝐜: China Microstich\nWith Lase Work\nSmooth Kamiz and Pant\nBody Long: 42-44 Inch\nPant Long: 39 Inch\nOrna: Gorget 90 Inch\n\n𝐁𝐨𝐝𝐲 𝐒𝐢𝐳𝐞:\nL = 𝟑6-𝟑8\nXL = 40-𝟒2\nXXL = 𝟒4-𝟒6",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "",
+      "video": "",
+      "variants": [
+        {
+          "id": "vx4bs48",
+          "name": "কমলা",
+          "hex": "#db7d12",
+          "imgs": [
+            "images/52wzfbmw38jvw9.jpg",
+            "images/plr7h9mw38kf1l.jpg",
+            "images/tu9m16mw38kgxx.jpg"
+          ]
+        }
+      ]
+    },
+    {
       "id": "p3gc8kl",
       "code": "RB-303",
       "name": "Cotton Half Sleeve For Men's",
