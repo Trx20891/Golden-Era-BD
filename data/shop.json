@@ -177,6 +177,38 @@
   ],
   "products": [
     {
+      "id": "pxfq285",
+      "code": "RB-301",
+      "name": "Cotton Half Sleeve For Men's",
+      "cat": "c-boys",
+      "sub": "",
+      "events": [],
+      "price": 650,
+      "old": 1200,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "গার্মেন্টস কটন ফেব্রিক\n- হাফ স্লিভ ও প্রিন্ট ডিজাইন\n- সিঙ্গেল পকেট\n- এক্সপোর্ট কোয়ালিটি\n- অতিরিক্ত একটি বাটন সংযুক্ত\n- আরামদায়ক ও হালকা ফেব্রিক\n- সব ঋতুতেই পরার উপযোগী\n- কালার ও কোয়ালিটির ১০০% গ্যারান্টি\n\n📏 Size Measurement\n\nM: Chest-40\" inch, Length-28\" inch\nL: Chest-42\" inch, Length-29\" inch\nXL: Chest-44\" inch, Length-30\" inch\nXXL: Chest-46\" inch, Length-31\" inch",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "",
+      "video": "",
+      "variants": [
+        {
+          "id": "vg4gwe9",
+          "name": "গোলাপি",
+          "hex": "#ee8faa",
+          "imgs": [
+            "images/z7hlgvmw389sn2.jpg"
+          ]
+        }
+      ]
+    },
+    {
       "id": "p5betsy",
       "code": "RB-300",
       "name": "Cotton Half Sleeve For Men's",
