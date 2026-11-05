@@ -196,6 +196,35 @@
   ],
   "products": [
     {
+      "id": "pk9pekp",
+      "code": "RB-309",
+      "name": "Indian Fendi Silk Saree Collection",
+      "cat": "c-girls",
+      "sub": "g-saree",
+      "events": [],
+      "price": 2250,
+      "old": 3500,
+      "sizes": [],
+      "desc": "ইন্ডিয়ান Fendi Silk Fabric\n- দারুণ সুন্দর Sequins Embroidery কাজ করা\n- সাথে থাকছে আলাদা Unstitched Blouse Piece\n- শাড়ির মাপ ১২ হাতেরও বেশি l\n\nঅভিজাত ডিজাইন, আকর্ষণীয় কাজ আর প্রিমিয়াম লুক—সব মিলিয়ে বিশেষ আয়োজনের জন্য একদম পারফেক্ট একটি শাড়ি। 💖✨",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "",
+      "video": "",
+      "variants": [
+        {
+          "id": "vm8xev8",
+          "name": "খইরি",
+          "hex": "#5c0600",
+          "imgs": [
+            "images/cvcs7kmw3r4mac.jpg",
+            "images/dnjh63mw3r4zgg.jpg",
+            "images/gaj2skmw3r514j.jpg"
+          ]
+        }
+      ]
+    },
+    {
       "id": "pbrkbfk",
       "code": "RB-307",
       "name": "Rupkotha Katan Saree",
