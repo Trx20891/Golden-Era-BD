@@ -177,6 +177,36 @@
   ],
   "products": [
     {
+      "id": "pywkwx2",
+      "code": "RB-306",
+      "name": "Royal Elegance Benaroshi Katan Saree",
+      "cat": "c-girls",
+      "sub": "g-saree",
+      "events": [],
+      "price": 1050,
+      "old": 1600,
+      "sizes": [],
+      "desc": "রাজকীয় আভিজাত্য আর ঐতিহ্যের অনন্য মেলবন্ধন\nচমৎকার Royal Elegance Benaroshi Katan Saree—যার সৌন্দর্য যেকোনো বিশেষ আয়োজনে আপনাকে করে তুলবে আরও আকর্ষণীয়।\n\n- শাড়ির সাথে থাকছে Matching Blouse Piece\n- জমকালো ও এলিগেন্ট ডিজাইন\n- উৎসব, বিয়ে কিংবা যেকোনো বিশেষ অনুষ্ঠানের জন্য দারুণ পছন্দ",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "",
+      "video": "",
+      "variants": [
+        {
+          "id": "vcgt4bb",
+          "name": "খইরি",
+          "hex": "#752300",
+          "imgs": [
+            "images/oxhpsnmw38rkes.jpg",
+            "images/p9bclbmw38sdow.jpg",
+            "images/h92rpfmw38sev5.jpg",
+            "images/qtjndumw38sg1h.jpg"
+          ]
+        }
+      ]
+    },
+    {
       "id": "pqxq5vd",
       "code": "RB-305",
       "name": "Digital Print Three Piece",
