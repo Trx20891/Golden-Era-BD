@@ -42,7 +42,26 @@
     "nagad": "01928187197",
     "feeIn": 70,
     "feeOut": 120,
-    "freeOver": 2500
+    "freeOver": 2500,
+    "adsOn": false,
+    "ads": [
+      {
+        "slot": "shop",
+        "on": false,
+        "key": "6c3cae0a7cb30d50b442c30612a69f60",
+        "w": 320,
+        "h": 50,
+        "src": "https://bauval.org/22/6c3cae0a7cb30d50b442c30612a69f60"
+      },
+      {
+        "slot": "how",
+        "on": false,
+        "key": "26b50f4e4930795e240ffdf00485ffe3",
+        "w": 320,
+        "h": 50,
+        "src": "https://bauval.org/22/26b50f4e4930795e240ffdf00485ffe3"
+      }
+    ]
   },
   "categories": [
     {
