@@ -200,6 +200,435 @@
   ],
   "products": [
     {
+      "id": "plioqt8",
+      "code": "RB-323",
+      "name": "Ladies Stylish Trendy Hoodie",
+      "cat": "c-girls",
+      "sub": "s1y3kgp",
+      "events": [
+        "e-winter"
+      ],
+      "price": 650,
+      "old": 1200,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "ফেব্রিক্সঃ ফ্লিস কটন ওয়ান সাইড ব্রাশ।\nকোয়ালিটিঃ ৩০০+- GSM ফেব্রিক্সঃ।\nইউজেবল ফর ফিমেল।\n\nSize: M, L, XL\nM = Chest-36, Length-26\nL = Chest-38, Length-27\nXL= Chest -40, Length-28",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vdosf9u",
+          "name": "গোলাপি",
+          "hex": "#ed95b2",
+          "imgs": [
+            "images/d83ouqmw6kd63p.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p0wbn75",
+      "code": "RB-322",
+      "name": "Ladies Stylish Trendy Hoodie",
+      "cat": "c-girls",
+      "sub": "s1y3kgp",
+      "events": [
+        "e-winter"
+      ],
+      "price": 650,
+      "old": 1200,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "ফেব্রিক্সঃ ফ্লিস কটন ওয়ান সাইড ব্রাশ।\nকোয়ালিটিঃ ৩০০+- GSM ফেব্রিক্সঃ।\nইউজেবল ফর ফিমেল।\n\nSize: M, L, XL\nM = Chest-36, Length-26\nL = Chest-38, Length-27\nXL= Chest -40, Length-28",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vp9s610",
+          "name": "লাল",
+          "hex": "#ce0659",
+          "imgs": [
+            "images/fjfvkhmw6kd2gc.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pp19tfg",
+      "code": "RB-321",
+      "name": "Ladies Stylish Trendy Hoodie",
+      "cat": "c-girls",
+      "sub": "s1y3kgp",
+      "events": [
+        "e-winter"
+      ],
+      "price": 650,
+      "old": 1200,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "ফেব্রিক্সঃ ফ্লিস কটন ওয়ান সাইড ব্রাশ।\nকোয়ালিটিঃ ৩০০+- GSM ফেব্রিক্সঃ।\nইউজেবল ফর ফিমেল।\n\nSize: M, L, XL\nM = Chest-36, Length-26\nL = Chest-38, Length-27\nXL= Chest -40, Length-28",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vdf6eqg",
+          "name": "মেরুন",
+          "hex": "#710410",
+          "imgs": [
+            "images/lsrv2ymw6kcz70.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pyd6zq1",
+      "code": "RB-320",
+      "name": "Ladies Stylish Trendy Hoodie",
+      "cat": "c-girls",
+      "sub": "s1y3kgp",
+      "events": [
+        "e-winter"
+      ],
+      "price": 650,
+      "old": 1200,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "ফেব্রিক্সঃ ফ্লিস কটন ওয়ান সাইড ব্রাশ।\nকোয়ালিটিঃ ৩০০+- GSM ফেব্রিক্সঃ।\nইউজেবল ফর ফিমেল।\n\nSize: M, L, XL\nM = Chest-36, Length-26\nL = Chest-38, Length-27\nXL= Chest -40, Length-28",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vkfun04",
+          "name": "মেরুন",
+          "hex": "#530511",
+          "imgs": [
+            "images/7dt52fmw6kcvf1.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pcvsxnx",
+      "code": "RB-319",
+      "name": "Ladies Stylish Trendy Hoodie",
+      "cat": "c-girls",
+      "sub": "s1y3kgp",
+      "events": [
+        "e-winter"
+      ],
+      "price": 650,
+      "old": 1200,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "ফেব্রিক্সঃ ফ্লিস কটন ওয়ান সাইড ব্রাশ।\nকোয়ালিটিঃ ৩০০+- GSM ফেব্রিক্সঃ।\nইউজেবল ফর ফিমেল।\n\nSize: M, L, XL\nM = Chest-36, Length-26\nL = Chest-38, Length-27\nXL= Chest -40, Length-28",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vcueaxe",
+          "name": "ক্রিম",
+          "hex": "#cbe3d5",
+          "imgs": [
+            "images/63jqdzmw6kcsde.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p5sj56l",
+      "code": "RB-318",
+      "name": "Ladies Stylish Trendy Hoodie",
+      "cat": "c-girls",
+      "sub": "s1y3kgp",
+      "events": [
+        "e-winter"
+      ],
+      "price": 650,
+      "old": 1200,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "ফেব্রিক্সঃ ফ্লিস কটন ওয়ান সাইড ব্রাশ।\nকোয়ালিটিঃ ৩০০+- GSM ফেব্রিক্সঃ।\nইউজেবল ফর ফিমেল।\n\nSize: M, L, XL\nM = Chest-36, Length-26\nL = Chest-38, Length-27\nXL= Chest -40, Length-28",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vhsz5m7",
+          "name": "কালো",
+          "hex": "#141313",
+          "imgs": [
+            "images/f71qaomw6kcp14.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pa6bgbs",
+      "code": "RB-317",
+      "name": "Ladies Stylish Trendy Hoodie",
+      "cat": "c-girls",
+      "sub": "s1y3kgp",
+      "events": [
+        "e-winter"
+      ],
+      "price": 650,
+      "old": 1200,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "ফেব্রিক্সঃ ফ্লিস কটন ওয়ান সাইড ব্রাশ।\nকোয়ালিটিঃ ৩০০+- GSM ফেব্রিক্সঃ।\nইউজেবল ফর ফিমেল।\n\nSize: M, L, XL\nM = Chest-36, Length-26\nL = Chest-38, Length-27\nXL= Chest -40, Length-28",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "v67tzgx",
+          "name": "ক্রিম",
+          "hex": "#eececf",
+          "imgs": [
+            "images/w9rjfamw6kclve.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p6zigi2",
+      "code": "RB-316",
+      "name": "Ladies Stylish Trendy Hoodie",
+      "cat": "c-girls",
+      "sub": "s1y3kgp",
+      "events": [
+        "e-winter"
+      ],
+      "price": 650,
+      "old": 1200,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "ফেব্রিক্সঃ ফ্লিস কটন ওয়ান সাইড ব্রাশ।\nকোয়ালিটিঃ ৩০০+- GSM ফেব্রিক্সঃ।\nইউজেবল ফর ফিমেল।\n\nSize: M, L, XL\nM = Chest-36, Length-26\nL = Chest-38, Length-27\nXL= Chest -40, Length-28",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "v7gmxk8",
+          "name": "লাল",
+          "hex": "#e92e70",
+          "imgs": [
+            "images/202xjwmw6kcicx.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p54wjin",
+      "code": "RB-315",
+      "name": "Ladies Stylish Trendy Hoodie",
+      "cat": "c-girls",
+      "sub": "s1y3kgp",
+      "events": [
+        "e-winter"
+      ],
+      "price": 650,
+      "old": 1200,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "ফেব্রিক্সঃ ফ্লিস কটন ওয়ান সাইড ব্রাশ।\nকোয়ালিটিঃ ৩০০+- GSM ফেব্রিক্সঃ।\nইউজেবল ফর ফিমেল।\n\nSize: M, L, XL\nM = Chest-36, Length-26\nL = Chest-38, Length-27\nXL= Chest -40, Length-28",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "v29tc80",
+          "name": "লিলাক",
+          "hex": "#d2b3ec",
+          "imgs": [
+            "images/3k9xyhmw6kceqj.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pdmh0oe",
+      "code": "RB-314",
+      "name": "Ladies Stylish Trendy Hoodie",
+      "cat": "c-girls",
+      "sub": "s1y3kgp",
+      "events": [
+        "e-winter"
+      ],
+      "price": 650,
+      "old": 1200,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "ফেব্রিক্সঃ ফ্লিস কটন ওয়ান সাইড ব্রাশ।\nকোয়ালিটিঃ ৩০০+- GSM ফেব্রিক্সঃ।\nইউজেবল ফর ফিমেল।\n\nSize: M, L, XL\nM = Chest-36, Length-26\nL = Chest-38, Length-27\nXL= Chest -40, Length-28",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vlccuq0",
+          "name": "লিলাক",
+          "hex": "#d3acd9",
+          "imgs": [
+            "images/rjc7elmw6kca71.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pp4p05b",
+      "code": "RB-313",
+      "name": "Ladies Stylish Trendy Hoodie",
+      "cat": "c-girls",
+      "sub": "s1y3kgp",
+      "events": [
+        "e-winter"
+      ],
+      "price": 650,
+      "old": 1200,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "ফেব্রিক্সঃ ফ্লিস কটন ওয়ান সাইড ব্রাশ।\nকোয়ালিটিঃ ৩০০+- GSM ফেব্রিক্সঃ।\nইউজেবল ফর ফিমেল।\n\nSize: M, L, XL\nM = Chest-36, Length-26\nL = Chest-38, Length-27\nXL= Chest -40, Length-28",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vfc73dt",
+          "name": "কালো",
+          "hex": "#12100e",
+          "imgs": [
+            "images/y17cdrmw6kbo2o.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pzzixja",
+      "code": "RB-312",
+      "name": "Ladies Stylish Trendy Hoodie",
+      "cat": "c-girls",
+      "sub": "s1y3kgp",
+      "events": [
+        "e-winter"
+      ],
+      "price": 650,
+      "old": 1200,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "ফেব্রিক্সঃ ফ্লিস কটন ওয়ান সাইড ব্রাশ।\nকোয়ালিটিঃ ৩০০+- GSM ফেব্রিক্সঃ।\nইউজেবল ফর ফিমেল।\n\nSize: M, L, XL\nM = Chest-36, Length-26\nL = Chest-38, Length-27\nXL= Chest -40, Length-28",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "viv1z2b",
+          "name": "সাদা",
+          "hex": "#f5f2ed",
+          "imgs": [
+            "images/d44frsmw6kbj7k.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "prfbb48",
+      "code": "RB-311",
+      "name": "Ladies Stylish Trendy Hoodie",
+      "cat": "c-girls",
+      "sub": "s1y3kgp",
+      "events": [
+        "e-winter"
+      ],
+      "price": 650,
+      "old": 1200,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "ফেব্রিক্সঃ ফ্লিস কটন ওয়ান সাইড ব্রাশ।\nকোয়ালিটিঃ ৩০০+- GSM ফেব্রিক্সঃ।\nইউজেবল ফর ফিমেল।\n\nSize: M, L, XL\nM = Chest-36, Length-26\nL = Chest-38, Length-27\nXL= Chest -40, Length-28",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "v4957so",
+          "name": "সাদা",
+          "hex": "#f6f2ef",
+          "imgs": [
+            "images/w61uh0mw6kbej1.jpg"
+          ]
+        }
+      ]
+    },
+    {
       "id": "pk9pekp",
       "code": "RB-309",
       "name": "Indian Fendi Silk Saree Collection",
