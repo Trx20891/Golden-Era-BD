@@ -43,11 +43,11 @@
     "feeIn": 70,
     "feeOut": 120,
     "freeOver": 2500,
-    "adsOn": true,
+    "adsOn": false,
     "ads": [
       {
         "slot": "shop",
-        "on": true,
+        "on": false,
         "key": "6c3cae0a7cb30d50b442c30612a69f60",
         "w": 320,
         "h": 50,
@@ -55,7 +55,7 @@
       },
       {
         "slot": "how",
-        "on": true,
+        "on": false,
         "key": "26b50f4e4930795e240ffdf00485ffe3",
         "w": 320,
         "h": 50,
