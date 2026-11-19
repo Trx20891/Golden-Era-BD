@@ -170,6 +170,12 @@
       "name": "অন্যান্য",
       "visible": true,
       "subs": []
+    },
+    {
+      "id": "c1nrfim",
+      "name": "গ্যাজেটস",
+      "visible": true,
+      "subs": []
     }
   ],
   "events": [
