@@ -206,6 +206,33 @@
   ],
   "products": [
     {
+      "id": "p86sc0r",
+      "code": "RB-349",
+      "name": "Five-Head Fascia Massage Gun – DH-780",
+      "cat": "c1nrfim",
+      "sub": "",
+      "events": [],
+      "price": 1500,
+      "old": 0,
+      "sizes": [],
+      "desc": "মডেল: DH-780\nম্যাসাজ হেড: ৫টি\nথ্রাস্ট: ৪৮ কেজি পর্যন্ত\nস্পিড: ৬টি লেভেল\nমাল্টিপল ইন্টারচেঞ্জেবল হেড\nব্যবহার: ঘাড়, কাঁধ, পিঠ, কোমর, হাত ও পায়ের জন্য উপযোগী\nগ্রিপ: আরামদায়ক ও নন-স্লিপ ডিজাইন\nব্যবহার: ওয়্যারলেস ও সহজে বহনযোগ্য\nব্যবহারযোগ্য স্থান: বাসা, অফিস ও জিম",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "",
+      "video": "",
+      "variants": [
+        {
+          "id": "vcro7e3",
+          "name": "",
+          "hex": "#6b6d73",
+          "imgs": [
+            "images/qpqx0vmwnu4x9x.jpg"
+          ]
+        }
+      ]
+    },
+    {
       "id": "pjuixb0",
       "code": "RB-348",
       "name": "Premium Padding Vest Jacket",
