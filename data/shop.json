@@ -206,6 +206,116 @@
   ],
   "products": [
     {
+      "id": "p330m36",
+      "code": "RB-382",
+      "name": "Zepter 6 Pcs Stainless Steel Kitchen Knife Set",
+      "cat": "c1nrfim",
+      "sub": "",
+      "events": [],
+      "price": 850,
+      "old": 0,
+      "sizes": [],
+      "desc": "মাংস, মাছ, সবজি বা ফল—যেকোনো ধরনের কাটিং,\nচপিং ও স্লাইসিং কাজে এটি অসাধারণ পারফরম্যান্স দেয়।\nআরামদায়ক ও ইরগোনমিক হ্যান্ডেল ব্যবহারে দেয় নিরাপদ ও কমফোর্টেবল গ্রিপ।\n\n✔ 6 পিস প্রিমিয়াম নাইফ সেট\n✔ Ultra Sharp Stainless Steel Blade\n✔ Rust Resistant & Durable\n✔ Comfortable Ergonomic Handle\n✔ হোম ও প্রফেশনাল কিচেনের জন্য পারফেক্ট",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "",
+      "video": "",
+      "variants": [
+        {
+          "id": "vs270p3",
+          "name": "কালো",
+          "hex": "#0d0f0b",
+          "imgs": [
+            "images/miosrmmwte31gz.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pqcy1fl",
+      "code": "RB-381",
+      "name": "Hands-Free Voice-Controlled USB LED Lamp",
+      "cat": "c-boys",
+      "sub": "",
+      "events": [],
+      "price": 450,
+      "old": 0,
+      "sizes": [],
+      "desc": "✨ কেন এই স্মার্ট ল্যাম্পটি আলাদা?\n✔ ভয়েস কন্ট্রোল সিস্টেম – হাত ছাড়াই সহজ নিয়ন্ত্রণ\n✔ USB পাওয়ারড – যেকোনো জায়গায় ব্যবহারযোগ্য\n✔ স্টাইলিশ রিং ডিজাইন – আধুনিক ও আকর্ষণীয় লুক\n✔ কমপ্যাক্ট ও পোর্টেবল – ডেস্ক বা বেডসাইডে পারফেক্ট",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "",
+      "video": "",
+      "variants": [
+        {
+          "id": "v2mymip",
+          "name": "বাদামি",
+          "hex": "#715237",
+          "imgs": [
+            "images/ghq1v4mwte0pa0.jpg",
+            "images/onmplomwte0r1w.jpg",
+            "images/l4m8cymwte0s3a.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pmqpjc0",
+      "code": "RB-379",
+      "name": "Multifunctional Three-Head Fascia Massage Gun",
+      "cat": "c1nrfim",
+      "sub": "",
+      "events": [],
+      "price": 1250,
+      "old": 0,
+      "sizes": [],
+      "desc": "৩-হেড স্পেশাল ম্যাসাজ ডিজাইন\n৬টি স্পিড লেভেল\nবিভিন্ন কাজের জন্য একাধিক পরিবর্তনযোগ্য ম্যাসাজ হেড\nরিচার্জেবল ও পোর্টেবল\nUSB চার্জিং সুবিধা\nহালকা ও আরামদায়ক এর্গোনমিক গ্রিপ\nব্যবহার: ঘাড়, কাঁধ, পিঠ, কোমর, হাত, পা ও বিভিন্ন জয়েন্টে ব্যবহারের উপযোগী\nবক্সে থাকছে: ম্যাসাজ গান, একাধিক ম্যাসাজ হেড, USB চার্জিং কেবল ও ইউজার ম্যানুয়াল",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "",
+      "video": "",
+      "variants": [
+        {
+          "id": "vnutl1o",
+          "name": "",
+          "hex": "#adb5c7",
+          "imgs": [
+            "images/wokirymwtdysf8.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pgri96v",
+      "code": "RB-380",
+      "name": "Multifunctional Three-Head Fascia Massage Gun",
+      "cat": "c1nrfim",
+      "sub": "",
+      "events": [],
+      "price": 1250,
+      "old": 0,
+      "sizes": [],
+      "desc": "৩-হেড স্পেশাল ম্যাসাজ ডিজাইন\n৬টি স্পিড লেভেল\nবিভিন্ন কাজের জন্য একাধিক পরিবর্তনযোগ্য ম্যাসাজ হেড\nরিচার্জেবল ও পোর্টেবল\nUSB চার্জিং সুবিধা\nহালকা ও আরামদায়ক এর্গোনমিক গ্রিপ\nব্যবহার: ঘাড়, কাঁধ, পিঠ, কোমর, হাত, পা ও বিভিন্ন জয়েন্টে ব্যবহারের উপযোগী\nবক্সে থাকছে: ম্যাসাজ গান, একাধিক ম্যাসাজ হেড, USB চার্জিং কেবল ও ইউজার ম্যানুয়াল",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "",
+      "video": "",
+      "variants": [
+        {
+          "id": "vt74xr7",
+          "name": "",
+          "hex": "#adb5c7",
+          "imgs": [
+            "images/7fde4qmwtdz0tb.jpg"
+          ]
+        }
+      ]
+    },
+    {
       "id": "puhz8xc",
       "code": "RB-378",
       "name": "Full Sleeve T-Shirt & Trouser Set",
