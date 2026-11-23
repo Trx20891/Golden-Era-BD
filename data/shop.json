@@ -206,6 +206,99 @@
   ],
   "products": [
     {
+      "id": "p3vw97u",
+      "code": "RB-411",
+      "name": "ACID WASH DROP SHOULDER T-SHIRT",
+      "cat": "c-boys",
+      "sub": "s-drop",
+      "events": [],
+      "price": 690,
+      "old": 1250,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "Product Highlights:\n✨ Trendy Acid Wash Finish (Unique vintage vibe)\n✨ Drop Shoulder – Relaxed Oversized Fit\n✨ Heavyweight 240+ GSM Fabric\n✨ Soft, Durable & Premium Feel\n✨ Classic Crew Neck\n✨ Perfect for Streetwear & Casual Fits",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "",
+      "video": "",
+      "variants": [
+        {
+          "id": "vrzjizb",
+          "name": "কালো",
+          "hex": "#290f15",
+          "imgs": [
+            "images/ca3m6amwtej2af.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "piidpuf",
+      "code": "RB-410",
+      "name": "ACID WASH DROP SHOULDER T-SHIRT",
+      "cat": "c-boys",
+      "sub": "s-drop",
+      "events": [],
+      "price": 690,
+      "old": 1250,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "Product Highlights:\n✨ Trendy Acid Wash Finish (Unique vintage vibe)\n✨ Drop Shoulder – Relaxed Oversized Fit\n✨ Heavyweight 240+ GSM Fabric\n✨ Soft, Durable & Premium Feel\n✨ Classic Crew Neck\n✨ Perfect for Streetwear & Casual Fits",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "",
+      "video": "",
+      "variants": [
+        {
+          "id": "vdsy0g0",
+          "name": "ধূসর",
+          "hex": "#8975ad",
+          "imgs": [
+            "images/84k18omwteivuu.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pvavgne",
+      "code": "RB-409",
+      "name": "ACID WASH DROP SHOULDER T-SHIRT",
+      "cat": "c-boys",
+      "sub": "s-drop",
+      "events": [],
+      "price": 690,
+      "old": 1250,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "Product Highlights:\n✨ Trendy Acid Wash Finish (Unique vintage vibe)\n✨ Drop Shoulder – Relaxed Oversized Fit\n✨ Heavyweight 240+ GSM Fabric\n✨ Soft, Durable & Premium Feel\n✨ Classic Crew Neck\n✨ Perfect for Streetwear & Casual Fits",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "",
+      "video": "",
+      "variants": [
+        {
+          "id": "vvokrem",
+          "name": "",
+          "hex": "#101313",
+          "imgs": [
+            "images/o582glmwteilv4.jpg"
+          ]
+        }
+      ]
+    },
+    {
       "id": "pq7jrju",
       "code": "RB-407",
       "name": "Premium Drop Shoulder T-Shirt",
