@@ -268,6 +268,347 @@
       ]
     },
     {
+      "id": "plg7z3l",
+      "code": "RB-440",
+      "name": "ACID WASH DROP SHOULDER T-SHIRT",
+      "cat": "c-boys",
+      "sub": "s-drop",
+      "events": [],
+      "price": 690,
+      "old": 1250,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "Product Highlights:\n✨ Trendy Acid Wash Finish (Unique vintage vibe)\n✨ Drop Shoulder – Relaxed Oversized Fit\n✨ Heavyweight 240+ GSM Fabric\n✨ Soft, Durable & Premium Feel\n✨ Classic Crew Neck\n✨ Perfect for Streetwear & Casual Fits",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "",
+      "video": "",
+      "variants": [
+        {
+          "id": "vb9spz2",
+          "name": "বোতল সবুজ",
+          "hex": "#115332",
+          "imgs": [
+            "images/3sdiewmwteo8ii.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p1fhid7",
+      "code": "RB-439",
+      "name": "ACID WASH DROP SHOULDER T-SHIRT",
+      "cat": "c-boys",
+      "sub": "s-drop",
+      "events": [],
+      "price": 690,
+      "old": 1250,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "Product Highlights:\n✨ Trendy Acid Wash Finish (Unique vintage vibe)\n✨ Drop Shoulder – Relaxed Oversized Fit\n✨ Heavyweight 240+ GSM Fabric\n✨ Soft, Durable & Premium Feel\n✨ Classic Crew Neck\n✨ Perfect for Streetwear & Casual Fits",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "",
+      "video": "",
+      "variants": [
+        {
+          "id": "v9icg8c",
+          "name": "বেইজ",
+          "hex": "#d2bc97",
+          "imgs": [
+            "images/p4qassmwteo4k1.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ppkt9da",
+      "code": "RB-438",
+      "name": "ACID WASH DROP SHOULDER T-SHIRT",
+      "cat": "c-boys",
+      "sub": "s-drop",
+      "events": [],
+      "price": 690,
+      "old": 1250,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "Product Highlights:\n✨ Trendy Acid Wash Finish (Unique vintage vibe)\n✨ Drop Shoulder – Relaxed Oversized Fit\n✨ Heavyweight 240+ GSM Fabric\n✨ Soft, Durable & Premium Feel\n✨ Classic Crew Neck\n✨ Perfect for Streetwear & Casual Fits",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "",
+      "video": "",
+      "variants": [
+        {
+          "id": "v663eh9",
+          "name": "মেরুন",
+          "hex": "#531725",
+          "imgs": [
+            "images/5slin1mwteo09m.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p71h6xn",
+      "code": "RB-437",
+      "name": "ACID WASH DROP SHOULDER T-SHIRT",
+      "cat": "c-boys",
+      "sub": "s-drop",
+      "events": [],
+      "price": 690,
+      "old": 1250,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "Product Highlights:\n✨ Trendy Acid Wash Finish (Unique vintage vibe)\n✨ Drop Shoulder – Relaxed Oversized Fit\n✨ Heavyweight 240+ GSM Fabric\n✨ Soft, Durable & Premium Feel\n✨ Classic Crew Neck\n✨ Perfect for Streetwear & Casual Fits",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "",
+      "video": "",
+      "variants": [
+        {
+          "id": "vjhy22e",
+          "name": "কফি",
+          "hex": "#2e2e2e",
+          "imgs": [
+            "images/724a17mwtenvbp.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pc3w97y",
+      "code": "RB-436",
+      "name": "ACID WASH DROP SHOULDER T-SHIRT",
+      "cat": "c-boys",
+      "sub": "s-drop",
+      "events": [],
+      "price": 690,
+      "old": 1250,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "Product Highlights:\n✨ Trendy Acid Wash Finish (Unique vintage vibe)\n✨ Drop Shoulder – Relaxed Oversized Fit\n✨ Heavyweight 240+ GSM Fabric\n✨ Soft, Durable & Premium Feel\n✨ Classic Crew Neck\n✨ Perfect for Streetwear & Casual Fits",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "",
+      "video": "",
+      "variants": [
+        {
+          "id": "vx8kqb8",
+          "name": "",
+          "hex": "#2f0e16",
+          "imgs": [
+            "images/mroel8mwtenj40.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pvy7i4q",
+      "code": "RB-434",
+      "name": "ACID WASH DROP SHOULDER T-SHIRT",
+      "cat": "c-boys",
+      "sub": "s-drop",
+      "events": [],
+      "price": 690,
+      "old": 1250,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "Product Highlights:\n✨ Trendy Acid Wash Finish (Unique vintage vibe)\n✨ Drop Shoulder – Relaxed Oversized Fit\n✨ Heavyweight 240+ GSM Fabric\n✨ Soft, Durable & Premium Feel\n✨ Classic Crew Neck\n✨ Perfect for Streetwear & Casual Fits",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "",
+      "video": "",
+      "variants": [
+        {
+          "id": "v6u9rk2",
+          "name": "কফি",
+          "hex": "#302e2c",
+          "imgs": [
+            "images/zebqjxmwteng2u.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pp7r95t",
+      "code": "RB-433",
+      "name": "ACID WASH DROP SHOULDER T-SHIRT",
+      "cat": "c-boys",
+      "sub": "s-drop",
+      "events": [],
+      "price": 690,
+      "old": 1250,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "Product Highlights:\n✨ Trendy Acid Wash Finish (Unique vintage vibe)\n✨ Drop Shoulder – Relaxed Oversized Fit\n✨ Heavyweight 240+ GSM Fabric\n✨ Soft, Durable & Premium Feel\n✨ Classic Crew Neck\n✨ Perfect for Streetwear & Casual Fits",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "",
+      "video": "",
+      "variants": [
+        {
+          "id": "voc8405",
+          "name": "বেইজ",
+          "hex": "#cab08a",
+          "imgs": [
+            "images/k75zaimwtencmn.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "prekbdc",
+      "code": "RB-432",
+      "name": "ACID WASH DROP SHOULDER T-SHIRT",
+      "cat": "c-boys",
+      "sub": "s-drop",
+      "events": [],
+      "price": 690,
+      "old": 1250,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "Product Highlights:\n✨ Trendy Acid Wash Finish (Unique vintage vibe)\n✨ Drop Shoulder – Relaxed Oversized Fit\n✨ Heavyweight 240+ GSM Fabric\n✨ Soft, Durable & Premium Feel\n✨ Classic Crew Neck\n✨ Perfect for Streetwear & Casual Fits",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "",
+      "video": "",
+      "variants": [
+        {
+          "id": "v7kdipa",
+          "name": "কফি",
+          "hex": "#29332a",
+          "imgs": [
+            "images/3o84fzmwten8cs.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pkw7ek5",
+      "code": "RB-431",
+      "name": "ACID WASH DROP SHOULDER T-SHIRT",
+      "cat": "c-boys",
+      "sub": "s-drop",
+      "events": [],
+      "price": 690,
+      "old": 1250,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "Product Highlights:\n✨ Trendy Acid Wash Finish (Unique vintage vibe)\n✨ Drop Shoulder – Relaxed Oversized Fit\n✨ Heavyweight 240+ GSM Fabric\n✨ Soft, Durable & Premium Feel\n✨ Classic Crew Neck\n✨ Perfect for Streetwear & Casual Fits",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "",
+      "video": "",
+      "variants": [
+        {
+          "id": "v4vbrdi",
+          "name": "বোতল সবুজ",
+          "hex": "#2c462c",
+          "imgs": [
+            "images/di9o4vmwten0fa.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "py0adzx",
+      "code": "RB-430",
+      "name": "ACID WASH DROP SHOULDER T-SHIRT",
+      "cat": "c-boys",
+      "sub": "s-drop",
+      "events": [],
+      "price": 690,
+      "old": 1250,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "Product Highlights:\n✨ Trendy Acid Wash Finish (Unique vintage vibe)\n✨ Drop Shoulder – Relaxed Oversized Fit\n✨ Heavyweight 240+ GSM Fabric\n✨ Soft, Durable & Premium Feel\n✨ Classic Crew Neck\n✨ Perfect for Streetwear & Casual Fits",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "",
+      "video": "",
+      "variants": [
+        {
+          "id": "vrydp5t",
+          "name": "",
+          "hex": "#06160c",
+          "imgs": [
+            "images/0192ozmwtemrkj.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p7ochrr",
+      "code": "RB-429",
+      "name": "ACID WASH DROP SHOULDER T-SHIRT",
+      "cat": "c-boys",
+      "sub": "s-drop",
+      "events": [],
+      "price": 690,
+      "old": 1250,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "Product Highlights:\n✨ Trendy Acid Wash Finish (Unique vintage vibe)\n✨ Drop Shoulder – Relaxed Oversized Fit\n✨ Heavyweight 240+ GSM Fabric\n✨ Soft, Durable & Premium Feel\n✨ Classic Crew Neck\n✨ Perfect for Streetwear & Casual Fits",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "",
+      "video": "",
+      "variants": [
+        {
+          "id": "v5l9y7h",
+          "name": "বেইজ",
+          "hex": "#c8af90",
+          "imgs": [
+            "images/1w4qd6mwtemh2e.jpg"
+          ]
+        }
+      ]
+    },
+    {
       "id": "pvavgne",
       "code": "RB-409",
       "name": "ACID WASH DROP SHOULDER T-SHIRT",
@@ -358,6 +699,486 @@
           "hex": "#1c3143",
           "imgs": [
             "images/shb5r8mwtec9lb.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pa2tl0r",
+      "code": "RB-427",
+      "name": "Premium Drop Shoulder T-Shirt",
+      "cat": "c-boys",
+      "sub": "s-drop",
+      "events": [],
+      "price": 570,
+      "old": 1000,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "🔥 কেন এই টি-শার্টটি নেবেন?\n✅ ১০০% প্রিমিয়াম কোয়ালিটি\n✅ পারফেক্ট সাইজ মেজারমেন্ট\n✅ স্ট্যান্ডার্ড ড্রপ শোল্ডার কাট\n✅ মেইন ফেব্রিক্স: কটন + স্প্যানডেক্স মিক্স\n✅ সফট, কমফোর্টেবল ও ব্রিদেবল ফেব্রিক\n✅ 220 GSM ফেব্রিক্স এন্ড হাই-কোয়ালিটি DTF প্রিন্ট\n✅ স্টাইলিশ ও ট্রেন্ডি ফিট\n\nSize- M, L, XL, XXL\nM - Length 27\" Chest 42\"\nL - Length 28\" Chest: 44\"\nXL - Length 29\" Chest 46\"\nXXL- Length 30\" Chest 48\"",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "",
+      "video": "",
+      "variants": [
+        {
+          "id": "vyusre2",
+          "name": "সাদা",
+          "hex": "#e5e5e5",
+          "imgs": [
+            "images/bgd4timwtem3qu.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pimtoy7",
+      "code": "RB-426",
+      "name": "Premium Drop Shoulder T-Shirt",
+      "cat": "c-boys",
+      "sub": "s-drop",
+      "events": [],
+      "price": 570,
+      "old": 1000,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "🔥 কেন এই টি-শার্টটি নেবেন?\n✅ ১০০% প্রিমিয়াম কোয়ালিটি\n✅ পারফেক্ট সাইজ মেজারমেন্ট\n✅ স্ট্যান্ডার্ড ড্রপ শোল্ডার কাট\n✅ মেইন ফেব্রিক্স: কটন + স্প্যানডেক্স মিক্স\n✅ সফট, কমফোর্টেবল ও ব্রিদেবল ফেব্রিক\n✅ 220 GSM ফেব্রিক্স এন্ড হাই-কোয়ালিটি DTF প্রিন্ট\n✅ স্টাইলিশ ও ট্রেন্ডি ফিট\n\nSize- M, L, XL, XXL\nM - Length 27\" Chest 42\"\nL - Length 28\" Chest: 44\"\nXL - Length 29\" Chest 46\"\nXXL- Length 30\" Chest 48\"",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "",
+      "video": "",
+      "variants": [
+        {
+          "id": "vfavv31",
+          "name": "",
+          "hex": "#cdcdd4",
+          "imgs": [
+            "images/z9f4bsmwtelyj4.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pa7f3au",
+      "code": "RB-425",
+      "name": "Premium Drop Shoulder T-Shirt",
+      "cat": "c-boys",
+      "sub": "s-drop",
+      "events": [],
+      "price": 570,
+      "old": 1000,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "🔥 কেন এই টি-শার্টটি নেবেন?\n✅ ১০০% প্রিমিয়াম কোয়ালিটি\n✅ পারফেক্ট সাইজ মেজারমেন্ট\n✅ স্ট্যান্ডার্ড ড্রপ শোল্ডার কাট\n✅ মেইন ফেব্রিক্স: কটন + স্প্যানডেক্স মিক্স\n✅ সফট, কমফোর্টেবল ও ব্রিদেবল ফেব্রিক\n✅ 220 GSM ফেব্রিক্স এন্ড হাই-কোয়ালিটি DTF প্রিন্ট\n✅ স্টাইলিশ ও ট্রেন্ডি ফিট\n\nSize- M, L, XL, XXL\nM - Length 27\" Chest 42\"\nL - Length 28\" Chest: 44\"\nXL - Length 29\" Chest 46\"\nXXL- Length 30\" Chest 48\"",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "",
+      "video": "",
+      "variants": [
+        {
+          "id": "v2wgx6q",
+          "name": "কালো",
+          "hex": "#091010",
+          "imgs": [
+            "images/zzho9vmwtelvl1.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p8foq1v",
+      "code": "RB-424",
+      "name": "Premium Drop Shoulder T-Shirt",
+      "cat": "c-boys",
+      "sub": "s-drop",
+      "events": [],
+      "price": 570,
+      "old": 1000,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "🔥 কেন এই টি-শার্টটি নেবেন?\n✅ ১০০% প্রিমিয়াম কোয়ালিটি\n✅ পারফেক্ট সাইজ মেজারমেন্ট\n✅ স্ট্যান্ডার্ড ড্রপ শোল্ডার কাট\n✅ মেইন ফেব্রিক্স: কটন + স্প্যানডেক্স মিক্স\n✅ সফট, কমফোর্টেবল ও ব্রিদেবল ফেব্রিক\n✅ 220 GSM ফেব্রিক্স এন্ড হাই-কোয়ালিটি DTF প্রিন্ট\n✅ স্টাইলিশ ও ট্রেন্ডি ফিট\n\nSize- M, L, XL, XXL\nM - Length 27\" Chest 42\"\nL - Length 28\" Chest: 44\"\nXL - Length 29\" Chest 46\"\nXXL- Length 30\" Chest 48\"",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "",
+      "video": "",
+      "variants": [
+        {
+          "id": "vti3jmw",
+          "name": "কালো",
+          "hex": "#0b0d13",
+          "imgs": [
+            "images/fdxfjdmwtelroo.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ppnn4or",
+      "code": "RB-423",
+      "name": "Premium Drop Shoulder T-Shirt",
+      "cat": "c-boys",
+      "sub": "s-drop",
+      "events": [],
+      "price": 570,
+      "old": 1000,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "🔥 কেন এই টি-শার্টটি নেবেন?\n✅ ১০০% প্রিমিয়াম কোয়ালিটি\n✅ পারফেক্ট সাইজ মেজারমেন্ট\n✅ স্ট্যান্ডার্ড ড্রপ শোল্ডার কাট\n✅ মেইন ফেব্রিক্স: কটন + স্প্যানডেক্স মিক্স\n✅ সফট, কমফোর্টেবল ও ব্রিদেবল ফেব্রিক\n✅ 220 GSM ফেব্রিক্স এন্ড হাই-কোয়ালিটি DTF প্রিন্ট\n✅ স্টাইলিশ ও ট্রেন্ডি ফিট\n\nSize- M, L, XL, XXL\nM - Length 27\" Chest 42\"\nL - Length 28\" Chest: 44\"\nXL - Length 29\" Chest 46\"\nXXL- Length 30\" Chest 48\"",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "",
+      "video": "",
+      "variants": [
+        {
+          "id": "v7h4th5",
+          "name": "কালো",
+          "hex": "#0f110f",
+          "imgs": [
+            "images/tvjar3mwteloyv.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pzy78j4",
+      "code": "RB-422",
+      "name": "Premium Drop Shoulder T-Shirt",
+      "cat": "c-boys",
+      "sub": "s-drop",
+      "events": [],
+      "price": 570,
+      "old": 1000,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "🔥 কেন এই টি-শার্টটি নেবেন?\n✅ ১০০% প্রিমিয়াম কোয়ালিটি\n✅ পারফেক্ট সাইজ মেজারমেন্ট\n✅ স্ট্যান্ডার্ড ড্রপ শোল্ডার কাট\n✅ মেইন ফেব্রিক্স: কটন + স্প্যানডেক্স মিক্স\n✅ সফট, কমফোর্টেবল ও ব্রিদেবল ফেব্রিক\n✅ 220 GSM ফেব্রিক্স এন্ড হাই-কোয়ালিটি DTF প্রিন্ট\n✅ স্টাইলিশ ও ট্রেন্ডি ফিট\n\nSize- M, L, XL, XXL\nM - Length 27\" Chest 42\"\nL - Length 28\" Chest: 44\"\nXL - Length 29\" Chest 46\"\nXXL- Length 30\" Chest 48\"",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "",
+      "video": "",
+      "variants": [
+        {
+          "id": "vqa4v7d",
+          "name": "কালো",
+          "hex": "#121311",
+          "imgs": [
+            "images/i7angqmwtelm18.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ptrl6vb",
+      "code": "RB-421",
+      "name": "Premium Drop Shoulder T-Shirt",
+      "cat": "c-boys",
+      "sub": "s-drop",
+      "events": [],
+      "price": 570,
+      "old": 1000,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "🔥 কেন এই টি-শার্টটি নেবেন?\n✅ ১০০% প্রিমিয়াম কোয়ালিটি\n✅ পারফেক্ট সাইজ মেজারমেন্ট\n✅ স্ট্যান্ডার্ড ড্রপ শোল্ডার কাট\n✅ মেইন ফেব্রিক্স: কটন + স্প্যানডেক্স মিক্স\n✅ সফট, কমফোর্টেবল ও ব্রিদেবল ফেব্রিক\n✅ 220 GSM ফেব্রিক্স এন্ড হাই-কোয়ালিটি DTF প্রিন্ট\n✅ স্টাইলিশ ও ট্রেন্ডি ফিট\n\nSize- M, L, XL, XXL\nM - Length 27\" Chest 42\"\nL - Length 28\" Chest: 44\"\nXL - Length 29\" Chest 46\"\nXXL- Length 30\" Chest 48\"",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "",
+      "video": "",
+      "variants": [
+        {
+          "id": "vqc73cc",
+          "name": "সাদা",
+          "hex": "#b9c7cd",
+          "imgs": [
+            "images/ewp0hbmwtelf3q.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pcuvdzr",
+      "code": "RB-420",
+      "name": "Premium Drop Shoulder T-Shirt",
+      "cat": "c-boys",
+      "sub": "s-drop",
+      "events": [],
+      "price": 570,
+      "old": 1000,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "🔥 কেন এই টি-শার্টটি নেবেন?\n✅ ১০০% প্রিমিয়াম কোয়ালিটি\n✅ পারফেক্ট সাইজ মেজারমেন্ট\n✅ স্ট্যান্ডার্ড ড্রপ শোল্ডার কাট\n✅ মেইন ফেব্রিক্স: কটন + স্প্যানডেক্স মিক্স\n✅ সফট, কমফোর্টেবল ও ব্রিদেবল ফেব্রিক\n✅ 220 GSM ফেব্রিক্স এন্ড হাই-কোয়ালিটি DTF প্রিন্ট\n✅ স্টাইলিশ ও ট্রেন্ডি ফিট\n\nSize- M, L, XL, XXL\nM - Length 27\" Chest 42\"\nL - Length 28\" Chest: 44\"\nXL - Length 29\" Chest 46\"\nXXL- Length 30\" Chest 48\"",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "",
+      "video": "",
+      "variants": [
+        {
+          "id": "vnwvz2l",
+          "name": "কালো",
+          "hex": "#151614",
+          "imgs": [
+            "images/b05d5gmwtelc05.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p9tnoii",
+      "code": "RB-419",
+      "name": "Premium Drop Shoulder T-Shirt",
+      "cat": "c-boys",
+      "sub": "s-drop",
+      "events": [],
+      "price": 570,
+      "old": 1000,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "🔥 কেন এই টি-শার্টটি নেবেন?\n✅ ১০০% প্রিমিয়াম কোয়ালিটি\n✅ পারফেক্ট সাইজ মেজারমেন্ট\n✅ স্ট্যান্ডার্ড ড্রপ শোল্ডার কাট\n✅ মেইন ফেব্রিক্স: কটন + স্প্যানডেক্স মিক্স\n✅ সফট, কমফোর্টেবল ও ব্রিদেবল ফেব্রিক\n✅ 220 GSM ফেব্রিক্স এন্ড হাই-কোয়ালিটি DTF প্রিন্ট\n✅ স্টাইলিশ ও ট্রেন্ডি ফিট\n\nSize- M, L, XL, XXL\nM - Length 27\" Chest 42\"\nL - Length 28\" Chest: 44\"\nXL - Length 29\" Chest 46\"\nXXL- Length 30\" Chest 48\"",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "",
+      "video": "",
+      "variants": [
+        {
+          "id": "vto4lar",
+          "name": "কালো",
+          "hex": "#131313",
+          "imgs": [
+            "images/40rna1mwtel914.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pi3bybg",
+      "code": "RB-418",
+      "name": "Premium Drop Shoulder T-Shirt",
+      "cat": "c-boys",
+      "sub": "s-drop",
+      "events": [],
+      "price": 570,
+      "old": 1000,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "🔥 কেন এই টি-শার্টটি নেবেন?\n✅ ১০০% প্রিমিয়াম কোয়ালিটি\n✅ পারফেক্ট সাইজ মেজারমেন্ট\n✅ স্ট্যান্ডার্ড ড্রপ শোল্ডার কাট\n✅ মেইন ফেব্রিক্স: কটন + স্প্যানডেক্স মিক্স\n✅ সফট, কমফোর্টেবল ও ব্রিদেবল ফেব্রিক\n✅ 220 GSM ফেব্রিক্স এন্ড হাই-কোয়ালিটি DTF প্রিন্ট\n✅ স্টাইলিশ ও ট্রেন্ডি ফিট\n\nSize- M, L, XL, XXL\nM - Length 27\" Chest 42\"\nL - Length 28\" Chest: 44\"\nXL - Length 29\" Chest 46\"\nXXL- Length 30\" Chest 48\"",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "",
+      "video": "",
+      "variants": [
+        {
+          "id": "vx4vk1y",
+          "name": "কালো",
+          "hex": "#161518",
+          "imgs": [
+            "images/3f4vyfmwtel63l.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "phqon9v",
+      "code": "RB-417",
+      "name": "Premium Drop Shoulder T-Shirt",
+      "cat": "c-boys",
+      "sub": "s-drop",
+      "events": [],
+      "price": 570,
+      "old": 1000,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "🔥 কেন এই টি-শার্টটি নেবেন?\n✅ ১০০% প্রিমিয়াম কোয়ালিটি\n✅ পারফেক্ট সাইজ মেজারমেন্ট\n✅ স্ট্যান্ডার্ড ড্রপ শোল্ডার কাট\n✅ মেইন ফেব্রিক্স: কটন + স্প্যানডেক্স মিক্স\n✅ সফট, কমফোর্টেবল ও ব্রিদেবল ফেব্রিক\n✅ 220 GSM ফেব্রিক্স এন্ড হাই-কোয়ালিটি DTF প্রিন্ট\n✅ স্টাইলিশ ও ট্রেন্ডি ফিট\n\nSize- M, L, XL, XXL\nM - Length 27\" Chest 42\"\nL - Length 28\" Chest: 44\"\nXL - Length 29\" Chest 46\"\nXXL- Length 30\" Chest 48\"",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "",
+      "video": "",
+      "variants": [
+        {
+          "id": "vjcflot",
+          "name": "কালো",
+          "hex": "#111318",
+          "imgs": [
+            "images/hz40bhmwtel2oz.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pjssfqx",
+      "code": "RB-416",
+      "name": "Premium Drop Shoulder T-Shirt",
+      "cat": "c-boys",
+      "sub": "s-drop",
+      "events": [],
+      "price": 570,
+      "old": 1000,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "🔥 কেন এই টি-শার্টটি নেবেন?\n✅ ১০০% প্রিমিয়াম কোয়ালিটি\n✅ পারফেক্ট সাইজ মেজারমেন্ট\n✅ স্ট্যান্ডার্ড ড্রপ শোল্ডার কাট\n✅ মেইন ফেব্রিক্স: কটন + স্প্যানডেক্স মিক্স\n✅ সফট, কমফোর্টেবল ও ব্রিদেবল ফেব্রিক\n✅ 220 GSM ফেব্রিক্স এন্ড হাই-কোয়ালিটি DTF প্রিন্ট\n✅ স্টাইলিশ ও ট্রেন্ডি ফিট\n\nSize- M, L, XL, XXL\nM - Length 27\" Chest 42\"\nL - Length 28\" Chest: 44\"\nXL - Length 29\" Chest 46\"\nXXL- Length 30\" Chest 48\"",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "",
+      "video": "",
+      "variants": [
+        {
+          "id": "vdy3r18",
+          "name": "কালো",
+          "hex": "#141318",
+          "imgs": [
+            "images/ev6u09mwtekzcy.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p3m3j19",
+      "code": "RB-415",
+      "name": "Premium Drop Shoulder T-Shirt",
+      "cat": "c-boys",
+      "sub": "s-drop",
+      "events": [],
+      "price": 570,
+      "old": 1000,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "🔥 কেন এই টি-শার্টটি নেবেন?\n✅ ১০০% প্রিমিয়াম কোয়ালিটি\n✅ পারফেক্ট সাইজ মেজারমেন্ট\n✅ স্ট্যান্ডার্ড ড্রপ শোল্ডার কাট\n✅ মেইন ফেব্রিক্স: কটন + স্প্যানডেক্স মিক্স\n✅ সফট, কমফোর্টেবল ও ব্রিদেবল ফেব্রিক\n✅ 220 GSM ফেব্রিক্স এন্ড হাই-কোয়ালিটি DTF প্রিন্ট\n✅ স্টাইলিশ ও ট্রেন্ডি ফিট\n\nSize- M, L, XL, XXL\nM - Length 27\" Chest 42\"\nL - Length 28\" Chest: 44\"\nXL - Length 29\" Chest 46\"\nXXL- Length 30\" Chest 48\"",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "",
+      "video": "",
+      "variants": [
+        {
+          "id": "vke0yxi",
+          "name": "কালো",
+          "hex": "#091010",
+          "imgs": [
+            "images/0fgo6cmwtekweg.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pq81uh4",
+      "code": "RB-414",
+      "name": "Premium Drop Shoulder T-Shirt",
+      "cat": "c-boys",
+      "sub": "s-drop",
+      "events": [],
+      "price": 570,
+      "old": 1000,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "🔥 কেন এই টি-শার্টটি নেবেন?\n✅ ১০০% প্রিমিয়াম কোয়ালিটি\n✅ পারফেক্ট সাইজ মেজারমেন্ট\n✅ স্ট্যান্ডার্ড ড্রপ শোল্ডার কাট\n✅ মেইন ফেব্রিক্স: কটন + স্প্যানডেক্স মিক্স\n✅ সফট, কমফোর্টেবল ও ব্রিদেবল ফেব্রিক\n✅ 220 GSM ফেব্রিক্স এন্ড হাই-কোয়ালিটি DTF প্রিন্ট\n✅ স্টাইলিশ ও ট্রেন্ডি ফিট\n\nSize- M, L, XL, XXL\nM - Length 27\" Chest 42\"\nL - Length 28\" Chest: 44\"\nXL - Length 29\" Chest 46\"\nXXL- Length 30\" Chest 48\"",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "",
+      "video": "",
+      "variants": [
+        {
+          "id": "v9uwy4o",
+          "name": "কালো",
+          "hex": "#171819",
+          "imgs": [
+            "images/xw3o50mwtekt6x.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pxb0hob",
+      "code": "RB-413",
+      "name": "Premium Drop Shoulder T-Shirt",
+      "cat": "c-boys",
+      "sub": "s-drop",
+      "events": [],
+      "price": 570,
+      "old": 1000,
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "desc": "🔥 কেন এই টি-শার্টটি নেবেন?\n✅ ১০০% প্রিমিয়াম কোয়ালিটি\n✅ পারফেক্ট সাইজ মেজারমেন্ট\n✅ স্ট্যান্ডার্ড ড্রপ শোল্ডার কাট\n✅ মেইন ফেব্রিক্স: কটন + স্প্যানডেক্স মিক্স\n✅ সফট, কমফোর্টেবল ও ব্রিদেবল ফেব্রিক\n✅ 220 GSM ফেব্রিক্স এন্ড হাই-কোয়ালিটি DTF প্রিন্ট\n✅ স্টাইলিশ ও ট্রেন্ডি ফিট\n\nSize- M, L, XL, XXL\nM - Length 27\" Chest 42\"\nL - Length 28\" Chest: 44\"\nXL - Length 29\" Chest 46\"\nXXL- Length 30\" Chest 48\"",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "",
+      "video": "",
+      "variants": [
+        {
+          "id": "vft9cxb",
+          "name": "কালো",
+          "hex": "#141418",
+          "imgs": [
+            "images/b1sofwmwtekpqs.jpg"
           ]
         }
       ]
