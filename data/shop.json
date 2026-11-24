@@ -210,6 +210,996 @@
   ],
   "products": [
     {
+      "id": "pctv5qq",
+      "code": "RB-483",
+      "name": "Stylish Embroidery Hoodie",
+      "cat": "c-boys",
+      "sub": "s7yfjko",
+      "events": [
+        "e-winter"
+      ],
+      "price": 790,
+      "old": 1250,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "📌 Product Details\nফেব্রিক: কটন ওয়ান সাইড ব্রাশ\nGSM: ৩২০+ জিএসএম।\nডিজাইন: প্রিমিয়াম এম্ব্রডারি ডিজাইন\nকমফোর্ট: সফট, উষ্ণ ও আরামদায়ক\nফিনিশিং: উন্নত মানের সেলাই ও প্রিমিয়াম ফিনিশিং\nউপযোগিতা: শীতকালীন ব্যবহারের জন্য",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "v2vjegi",
+          "name": "বোতল সবুজ",
+          "hex": "#0a4f35",
+          "imgs": [
+            "images/wgzq9gmwuwofza.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ptnxw4x",
+      "code": "RB-482",
+      "name": "Stylish Embroidery Hoodie",
+      "cat": "c-boys",
+      "sub": "s7yfjko",
+      "events": [
+        "e-winter"
+      ],
+      "price": 790,
+      "old": 1250,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "📌 Product Details\nফেব্রিক: কটন ওয়ান সাইড ব্রাশ\nGSM: ৩২০+ জিএসএম।\nডিজাইন: প্রিমিয়াম এম্ব্রডারি ডিজাইন\nকমফোর্ট: সফট, উষ্ণ ও আরামদায়ক\nফিনিশিং: উন্নত মানের সেলাই ও প্রিমিয়াম ফিনিশিং\nউপযোগিতা: শীতকালীন ব্যবহারের জন্য",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vsfu20e",
+          "name": "সাদা",
+          "hex": "#e9e9ed",
+          "imgs": [
+            "images/g585q9mwuwobje.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pirx85j",
+      "code": "RB-481",
+      "name": "Stylish Embroidery Hoodie",
+      "cat": "c-boys",
+      "sub": "s7yfjko",
+      "events": [
+        "e-winter"
+      ],
+      "price": 790,
+      "old": 1250,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "📌 Product Details\nফেব্রিক: কটন ওয়ান সাইড ব্রাশ\nGSM: ৩২০+ জিএসএম।\nডিজাইন: প্রিমিয়াম এম্ব্রডারি ডিজাইন\nকমফোর্ট: সফট, উষ্ণ ও আরামদায়ক\nফিনিশিং: উন্নত মানের সেলাই ও প্রিমিয়াম ফিনিশিং\nউপযোগিতা: শীতকালীন ব্যবহারের জন্য",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vvj9r8l",
+          "name": "কালো",
+          "hex": "#0f0f0f",
+          "imgs": [
+            "images/wv8tcwmwuwo7vz.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p65r2w4",
+      "code": "RB-480",
+      "name": "Stylish Embroidery Hoodie",
+      "cat": "c-boys",
+      "sub": "s7yfjko",
+      "events": [
+        "e-winter"
+      ],
+      "price": 790,
+      "old": 1250,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "📌 Product Details\nফেব্রিক: কটন ওয়ান সাইড ব্রাশ\nGSM: ৩২০+ জিএসএম।\nডিজাইন: প্রিমিয়াম এম্ব্রডারি ডিজাইন\nকমফোর্ট: সফট, উষ্ণ ও আরামদায়ক\nফিনিশিং: উন্নত মানের সেলাই ও প্রিমিয়াম ফিনিশিং\nউপযোগিতা: শীতকালীন ব্যবহারের জন্য",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vqixgmx",
+          "name": "বোতল সবুজ",
+          "hex": "#073b24",
+          "imgs": [
+            "images/b6c7n9mwuwo4rp.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pcgenr9",
+      "code": "RB-479",
+      "name": "Stylish Embroidery Hoodie",
+      "cat": "c-boys",
+      "sub": "s7yfjko",
+      "events": [
+        "e-winter"
+      ],
+      "price": 790,
+      "old": 1250,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "📌 Product Details\nফেব্রিক: কটন ওয়ান সাইড ব্রাশ\nGSM: ৩২০+ জিএসএম।\nডিজাইন: প্রিমিয়াম এম্ব্রডারি ডিজাইন\nকমফোর্ট: সফট, উষ্ণ ও আরামদায়ক\nফিনিশিং: উন্নত মানের সেলাই ও প্রিমিয়াম ফিনিশিং\nউপযোগিতা: শীতকালীন ব্যবহারের জন্য",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "v8ry9mm",
+          "name": "বেইজ",
+          "hex": "#dab388",
+          "imgs": [
+            "images/dinfrhmwuwo0qt.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pyie0uw",
+      "code": "RB-478",
+      "name": "Stylish Embroidery Hoodie",
+      "cat": "c-boys",
+      "sub": "s7yfjko",
+      "events": [
+        "e-winter"
+      ],
+      "price": 790,
+      "old": 1250,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "📌 Product Details\nফেব্রিক: কটন ওয়ান সাইড ব্রাশ\nGSM: ৩২০+ জিএসএম।\nডিজাইন: প্রিমিয়াম এম্ব্রডারি ডিজাইন\nকমফোর্ট: সফট, উষ্ণ ও আরামদায়ক\nফিনিশিং: উন্নত মানের সেলাই ও প্রিমিয়াম ফিনিশিং\nউপযোগিতা: শীতকালীন ব্যবহারের জন্য",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "v0p7cti",
+          "name": "মেরুন",
+          "hex": "#530814",
+          "imgs": [
+            "images/za66gzmwuwnvl8.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p39c8hn",
+      "code": "RB-477",
+      "name": "Stylish Embroidery Hoodie",
+      "cat": "c-boys",
+      "sub": "s7yfjko",
+      "events": [
+        "e-winter"
+      ],
+      "price": 790,
+      "old": 1250,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "📌 Product Details\nফেব্রিক: কটন ওয়ান সাইড ব্রাশ\nGSM: ৩২০+ জিএসএম।\nডিজাইন: প্রিমিয়াম এম্ব্রডারি ডিজাইন\nকমফোর্ট: সফট, উষ্ণ ও আরামদায়ক\nফিনিশিং: উন্নত মানের সেলাই ও প্রিমিয়াম ফিনিশিং\nউপযোগিতা: শীতকালীন ব্যবহারের জন্য",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "v688f56",
+          "name": "সাদা",
+          "hex": "#f1effa",
+          "imgs": [
+            "images/07wdcwmwuwnr93.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pm2lqtw",
+      "code": "RB-476",
+      "name": "Stylish Embroidery Hoodie",
+      "cat": "c-boys",
+      "sub": "s7yfjko",
+      "events": [
+        "e-winter"
+      ],
+      "price": 790,
+      "old": 1250,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "📌 Product Details\nফেব্রিক: কটন ওয়ান সাইড ব্রাশ\nGSM: ৩২০+ জিএসএম।\nডিজাইন: প্রিমিয়াম এম্ব্রডারি ডিজাইন\nকমফোর্ট: সফট, উষ্ণ ও আরামদায়ক\nফিনিশিং: উন্নত মানের সেলাই ও প্রিমিয়াম ফিনিশিং\nউপযোগিতা: শীতকালীন ব্যবহারের জন্য",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vgc1fle",
+          "name": "ক্রিম",
+          "hex": "#fbe7d0",
+          "imgs": [
+            "images/9ax2ojmwuwnnw4.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ppkjpls",
+      "code": "RB-475",
+      "name": "Stylish Embroidery Hoodie",
+      "cat": "c-boys",
+      "sub": "s7yfjko",
+      "events": [
+        "e-winter"
+      ],
+      "price": 790,
+      "old": 1250,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "📌 Product Details\nফেব্রিক: কটন ওয়ান সাইড ব্রাশ\nGSM: ৩২০+ জিএসএম।\nডিজাইন: প্রিমিয়াম এম্ব্রডারি ডিজাইন\nকমফোর্ট: সফট, উষ্ণ ও আরামদায়ক\nফিনিশিং: উন্নত মানের সেলাই ও প্রিমিয়াম ফিনিশিং\nউপযোগিতা: শীতকালীন ব্যবহারের জন্য",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "v7yg0ne",
+          "name": "বেইজ",
+          "hex": "#e7bb92",
+          "imgs": [
+            "images/foh4t3mwuwnjux.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "puxder1",
+      "code": "RB-474",
+      "name": "Stylish Embroidery Hoodie",
+      "cat": "c-boys",
+      "sub": "s7yfjko",
+      "events": [
+        "e-winter"
+      ],
+      "price": 790,
+      "old": 1250,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "📌 Product Details\nফেব্রিক: কটন ওয়ান সাইড ব্রাশ\nGSM: ৩২০+ জিএসএম।\nডিজাইন: প্রিমিয়াম এম্ব্রডারি ডিজাইন\nকমফোর্ট: সফট, উষ্ণ ও আরামদায়ক\nফিনিশিং: উন্নত মানের সেলাই ও প্রিমিয়াম ফিনিশিং\nউপযোগিতা: শীতকালীন ব্যবহারের জন্য",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "v0a4ojk",
+          "name": "কালো",
+          "hex": "#0c0c0c",
+          "imgs": [
+            "images/jefoihmwuwngmp.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pk5ze60",
+      "code": "RB-473",
+      "name": "Stylish Embroidery Hoodie",
+      "cat": "c-boys",
+      "sub": "s7yfjko",
+      "events": [
+        "e-winter"
+      ],
+      "price": 790,
+      "old": 1250,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "📌 Product Details\nফেব্রিক: কটন ওয়ান সাইড ব্রাশ\nGSM: ৩২০+ জিএসএম।\nডিজাইন: প্রিমিয়াম এম্ব্রডারি ডিজাইন\nকমফোর্ট: সফট, উষ্ণ ও আরামদায়ক\nফিনিশিং: উন্নত মানের সেলাই ও প্রিমিয়াম ফিনিশিং\nউপযোগিতা: শীতকালীন ব্যবহারের জন্য",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vyz9us0",
+          "name": "মেরুন",
+          "hex": "#6a0319",
+          "imgs": [
+            "images/jpm347mwuwnd7k.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pkfilq2",
+      "code": "RB-472",
+      "name": "Stylish Embroidery Hoodie",
+      "cat": "c-boys",
+      "sub": "s7yfjko",
+      "events": [
+        "e-winter"
+      ],
+      "price": 790,
+      "old": 1250,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "📌 Product Details\nফেব্রিক: কটন ওয়ান সাইড ব্রাশ\nGSM: ৩২০+ জিএসএম।\nডিজাইন: প্রিমিয়াম এম্ব্রডারি ডিজাইন\nকমফোর্ট: সফট, উষ্ণ ও আরামদায়ক\nফিনিশিং: উন্নত মানের সেলাই ও প্রিমিয়াম ফিনিশিং\nউপযোগিতা: শীতকালীন ব্যবহারের জন্য",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vt08u6a",
+          "name": "কালো",
+          "hex": "#0f0f0f",
+          "imgs": [
+            "images/aitdylmwuwn98u.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pcj201h",
+      "code": "RB-471",
+      "name": "Stylish Embroidery Hoodie",
+      "cat": "c-boys",
+      "sub": "s7yfjko",
+      "events": [
+        "e-winter"
+      ],
+      "price": 790,
+      "old": 1250,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "📌 Product Details\nফেব্রিক: কটন ওয়ান সাইড ব্রাশ\nGSM: ৩২০+ জিএসএম।\nডিজাইন: প্রিমিয়াম এম্ব্রডারি ডিজাইন\nকমফোর্ট: সফট, উষ্ণ ও আরামদায়ক\nফিনিশিং: উন্নত মানের সেলাই ও প্রিমিয়াম ফিনিশিং\nউপযোগিতা: শীতকালীন ব্যবহারের জন্য",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vqzp3xo",
+          "name": "কালো",
+          "hex": "#0c0c0c",
+          "imgs": [
+            "images/at86u8mwuwn4fs.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pkp4dd3",
+      "code": "RB-470",
+      "name": "Stylish Embroidery Hoodie",
+      "cat": "c-boys",
+      "sub": "s7yfjko",
+      "events": [
+        "e-winter"
+      ],
+      "price": 790,
+      "old": 1250,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "📌 Product Details\nফেব্রিক: কটন ওয়ান সাইড ব্রাশ\nGSM: ৩২০+ জিএসএম।\nডিজাইন: প্রিমিয়াম এম্ব্রডারি ডিজাইন\nকমফোর্ট: সফট, উষ্ণ ও আরামদায়ক\nফিনিশিং: উন্নত মানের সেলাই ও প্রিমিয়াম ফিনিশিং\nউপযোগিতা: শীতকালীন ব্যবহারের জন্য",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "v5qa77t",
+          "name": "ক্রিম",
+          "hex": "#fcead0",
+          "imgs": [
+            "images/wimg9dmwuwmvcu.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pnc7hyy",
+      "code": "RB-469",
+      "name": "Stylish Embroidery Hoodie",
+      "cat": "c-boys",
+      "sub": "s7yfjko",
+      "events": [
+        "e-winter"
+      ],
+      "price": 790,
+      "old": 1250,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "📌 Product Details\nফেব্রিক: কটন ওয়ান সাইড ব্রাশ\nGSM: ৩২০+ জিএসএম।\nডিজাইন: প্রিমিয়াম এম্ব্রডারি ডিজাইন\nকমফোর্ট: সফট, উষ্ণ ও আরামদায়ক\nফিনিশিং: উন্নত মানের সেলাই ও প্রিমিয়াম ফিনিশিং\nউপযোগিতা: শীতকালীন ব্যবহারের জন্য",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vo1xbj8",
+          "name": "কালো",
+          "hex": "#0d0d0d",
+          "imgs": [
+            "images/bsdk7fmwuwmrtl.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p1e7qic",
+      "code": "RB-468",
+      "name": "Stylish Embroidery Hoodie",
+      "cat": "c-boys",
+      "sub": "s7yfjko",
+      "events": [
+        "e-winter"
+      ],
+      "price": 790,
+      "old": 1250,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "📌 Product Details\nফেব্রিক: কটন ওয়ান সাইড ব্রাশ\nGSM: ৩২০+ জিএসএম।\nডিজাইন: প্রিমিয়াম এম্ব্রডারি ডিজাইন\nকমফোর্ট: সফট, উষ্ণ ও আরামদায়ক\nফিনিশিং: উন্নত মানের সেলাই ও প্রিমিয়াম ফিনিশিং\nউপযোগিতা: শীতকালীন ব্যবহারের জন্য",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vbgyv7w",
+          "name": "কালো",
+          "hex": "#0e0e0e",
+          "imgs": [
+            "images/3vdhi7mwuwmowm.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pj9jxcs",
+      "code": "RB-467",
+      "name": "Stylish Embroidery Hoodie",
+      "cat": "c-boys",
+      "sub": "s7yfjko",
+      "events": [
+        "e-winter"
+      ],
+      "price": 790,
+      "old": 1250,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "📌 Product Details\nফেব্রিক: কটন ওয়ান সাইড ব্রাশ\nGSM: ৩২০+ জিএসএম।\nডিজাইন: প্রিমিয়াম এম্ব্রডারি ডিজাইন\nকমফোর্ট: সফট, উষ্ণ ও আরামদায়ক\nফিনিশিং: উন্নত মানের সেলাই ও প্রিমিয়াম ফিনিশিং\nউপযোগিতা: শীতকালীন ব্যবহারের জন্য",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "v72fre0",
+          "name": "বেইজ",
+          "hex": "#ebd3ba",
+          "imgs": [
+            "images/tg2g3omwuwml6m.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pu11uar",
+      "code": "RB-466",
+      "name": "Stylish Embroidery Hoodie",
+      "cat": "c-boys",
+      "sub": "s7yfjko",
+      "events": [
+        "e-winter"
+      ],
+      "price": 790,
+      "old": 1250,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "📌 Product Details\nফেব্রিক: কটন ওয়ান সাইড ব্রাশ\nGSM: ৩২০+ জিএসএম।\nডিজাইন: প্রিমিয়াম এম্ব্রডারি ডিজাইন\nকমফোর্ট: সফট, উষ্ণ ও আরামদায়ক\nফিনিশিং: উন্নত মানের সেলাই ও প্রিমিয়াম ফিনিশিং\nউপযোগিতা: শীতকালীন ব্যবহারের জন্য",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vksuq1o",
+          "name": "সাদা",
+          "hex": "#f2f1f3",
+          "imgs": [
+            "images/8cr5fhmwuwmir6.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ptf7op7",
+      "code": "RB-465",
+      "name": "Stylish Embroidery Hoodie",
+      "cat": "c-boys",
+      "sub": "s7yfjko",
+      "events": [
+        "e-winter"
+      ],
+      "price": 790,
+      "old": 1250,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "📌 Product Details\nফেব্রিক: কটন ওয়ান সাইড ব্রাশ\nGSM: ৩২০+ জিএসএম।\nডিজাইন: প্রিমিয়াম এম্ব্রডারি ডিজাইন\nকমফোর্ট: সফট, উষ্ণ ও আরামদায়ক\nফিনিশিং: উন্নত মানের সেলাই ও প্রিমিয়াম ফিনিশিং\nউপযোগিতা: শীতকালীন ব্যবহারের জন্য",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vgysfyd",
+          "name": "কালো",
+          "hex": "#101010",
+          "imgs": [
+            "images/l3utkgmwuwmg7i.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ptjvs0a",
+      "code": "RB-464",
+      "name": "Stylish Embroidery Hoodie",
+      "cat": "c-boys",
+      "sub": "s7yfjko",
+      "events": [
+        "e-winter"
+      ],
+      "price": 790,
+      "old": 1250,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "📌 Product Details\nফেব্রিক: কটন ওয়ান সাইড ব্রাশ\nGSM: ৩২০+ জিএসএম।\nডিজাইন: প্রিমিয়াম এম্ব্রডারি ডিজাইন\nকমফোর্ট: সফট, উষ্ণ ও আরামদায়ক\nফিনিশিং: উন্নত মানের সেলাই ও প্রিমিয়াম ফিনিশিং\nউপযোগিতা: শীতকালীন ব্যবহারের জন্য",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "v2hz6w7",
+          "name": "ক্রিম",
+          "hex": "#fbe8ce",
+          "imgs": [
+            "images/qx3ygxmwuwmddw.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pmvttjv",
+      "code": "RB-463",
+      "name": "Stylish Embroidery Hoodie",
+      "cat": "c-boys",
+      "sub": "s7yfjko",
+      "events": [
+        "e-winter"
+      ],
+      "price": 790,
+      "old": 1250,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "📌 Product Details\nফেব্রিক: কটন ওয়ান সাইড ব্রাশ\nGSM: ৩২০+ জিএসএম।\nডিজাইন: প্রিমিয়াম এম্ব্রডারি ডিজাইন\nকমফোর্ট: সফট, উষ্ণ ও আরামদায়ক\nফিনিশিং: উন্নত মানের সেলাই ও প্রিমিয়াম ফিনিশিং\nউপযোগিতা: শীতকালীন ব্যবহারের জন্য",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "v4pxp6g",
+          "name": "সাদা",
+          "hex": "#ebebeb",
+          "imgs": [
+            "images/s24fjmmwuwmaek.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p9saqmq",
+      "code": "RB-462",
+      "name": "Stylish Embroidery Hoodie",
+      "cat": "c-boys",
+      "sub": "s7yfjko",
+      "events": [
+        "e-winter"
+      ],
+      "price": 790,
+      "old": 1250,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "📌 Product Details\nফেব্রিক: কটন ওয়ান সাইড ব্রাশ\nGSM: ৩২০+ জিএসএম।\nডিজাইন: প্রিমিয়াম এম্ব্রডারি ডিজাইন\nকমফোর্ট: সফট, উষ্ণ ও আরামদায়ক\nফিনিশিং: উন্নত মানের সেলাই ও প্রিমিয়াম ফিনিশিং\nউপযোগিতা: শীতকালীন ব্যবহারের জন্য",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vi4cm0b",
+          "name": "সাদা",
+          "hex": "#efeeec",
+          "imgs": [
+            "images/w084ewmwuwm7c1.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pdhk1p8",
+      "code": "RB-461",
+      "name": "Stylish Embroidery Hoodie",
+      "cat": "c-boys",
+      "sub": "s7yfjko",
+      "events": [
+        "e-winter"
+      ],
+      "price": 790,
+      "old": 1250,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "📌 Product Details\nফেব্রিক: কটন ওয়ান সাইড ব্রাশ\nGSM: ৩২০+ জিএসএম।\nডিজাইন: প্রিমিয়াম এম্ব্রডারি ডিজাইন\nকমফোর্ট: সফট, উষ্ণ ও আরামদায়ক\nফিনিশিং: উন্নত মানের সেলাই ও প্রিমিয়াম ফিনিশিং\nউপযোগিতা: শীতকালীন ব্যবহারের জন্য",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vi5nbiv",
+          "name": "",
+          "hex": "#171717",
+          "imgs": [
+            "images/dctaaemwuwlz33.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p2xllns",
+      "code": "RB-460",
+      "name": "Stylish Embroidery Hoodie",
+      "cat": "c-boys",
+      "sub": "s7yfjko",
+      "events": [
+        "e-winter"
+      ],
+      "price": 790,
+      "old": 1250,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "📌 Product Details\nফেব্রিক: কটন ওয়ান সাইড ব্রাশ\nGSM: ৩২০+ জিএসএম।\nডিজাইন: প্রিমিয়াম এম্ব্রডারি ডিজাইন\nকমফোর্ট: সফট, উষ্ণ ও আরামদায়ক\nফিনিশিং: উন্নত মানের সেলাই ও প্রিমিয়াম ফিনিশিং\nউপযোগিতা: শীতকালীন ব্যবহারের জন্য",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vy7wk2k",
+          "name": "মেরুন",
+          "hex": "#6e0b18",
+          "imgs": [
+            "images/d71oafmwuwlw6o.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pb4pgo3",
+      "code": "RB-459",
+      "name": "Stylish Embroidery Hoodie",
+      "cat": "c-boys",
+      "sub": "s7yfjko",
+      "events": [
+        "e-winter"
+      ],
+      "price": 790,
+      "old": 1250,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "📌 Product Details\nফেব্রিক: কটন ওয়ান সাইড ব্রাশ\nGSM: ৩২০+ জিএসএম।\nডিজাইন: প্রিমিয়াম এম্ব্রডারি ডিজাইন\nকমফোর্ট: সফট, উষ্ণ ও আরামদায়ক\nফিনিশিং: উন্নত মানের সেলাই ও প্রিমিয়াম ফিনিশিং\nউপযোগিতা: শীতকালীন ব্যবহারের জন্য",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vnlao4v",
+          "name": "কালো",
+          "hex": "#131312",
+          "imgs": [
+            "images/kc3yw4mwuwlmus.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p72gemc",
+      "code": "RB-458",
+      "name": "Stylish Embroidery Hoodie",
+      "cat": "c-boys",
+      "sub": "s7yfjko",
+      "events": [
+        "e-winter"
+      ],
+      "price": 790,
+      "old": 1250,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "📌 Product Details\nফেব্রিক: কটন ওয়ান সাইড ব্রাশ\nGSM: ৩২০+ জিএসএম।\nডিজাইন: প্রিমিয়াম এম্ব্রডারি ডিজাইন\nকমফোর্ট: সফট, উষ্ণ ও আরামদায়ক\nফিনিশিং: উন্নত মানের সেলাই ও প্রিমিয়াম ফিনিশিং\nউপযোগিতা: শীতকালীন ব্যবহারের জন্য",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vgw8xz6",
+          "name": "মেরুন",
+          "hex": "#4b0e19",
+          "imgs": [
+            "images/wf8m0ymwuwlfjx.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p015k48",
+      "code": "RB-457",
+      "name": "Stylish Embroidery Hoodie",
+      "cat": "c-boys",
+      "sub": "s7yfjko",
+      "events": [
+        "e-winter"
+      ],
+      "price": 790,
+      "old": 1250,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "📌 Product Details\nফেব্রিক: কটন ওয়ান সাইড ব্রাশ\nGSM: ৩২০+ জিএসএম।\nডিজাইন: প্রিমিয়াম এম্ব্রডারি ডিজাইন\nকমফোর্ট: সফট, উষ্ণ ও আরামদায়ক\nফিনিশিং: উন্নত মানের সেলাই ও প্রিমিয়াম ফিনিশিং\nউপযোগিতা: শীতকালীন ব্যবহারের জন্য",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "v86b81l",
+          "name": "কালো",
+          "hex": "#131313",
+          "imgs": [
+            "images/4m1l07mwuwlcjo.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pwyy9pi",
+      "code": "RB-456",
+      "name": "Stylish Embroidery Hoodie",
+      "cat": "c-boys",
+      "sub": "s7yfjko",
+      "events": [
+        "e-winter"
+      ],
+      "price": 790,
+      "old": 1250,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "📌 Product Details\nফেব্রিক: কটন ওয়ান সাইড ব্রাশ\nGSM: ৩২০+ জিএসএম।\nডিজাইন: প্রিমিয়াম এম্ব্রডারি ডিজাইন\nকমফোর্ট: সফট, উষ্ণ ও আরামদায়ক\nফিনিশিং: উন্নত মানের সেলাই ও প্রিমিয়াম ফিনিশিং\nউপযোগিতা: শীতকালীন ব্যবহারের জন্য",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "vrb8ht3",
+          "name": "বোতল সবুজ",
+          "hex": "#04352b",
+          "imgs": [
+            "images/b2yqo8mwuwl9y8.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p5nfceg",
+      "code": "RB-455",
+      "name": "Stylish Embroidery Hoodie",
+      "cat": "c-boys",
+      "sub": "s7yfjko",
+      "events": [
+        "e-winter"
+      ],
+      "price": 790,
+      "old": 1250,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "📌 Product Details\nফেব্রিক: কটন ওয়ান সাইড ব্রাশ\nGSM: ৩২০+ জিএসএম।\nডিজাইন: প্রিমিয়াম এম্ব্রডারি ডিজাইন\nকমফোর্ট: সফট, উষ্ণ ও আরামদায়ক\nফিনিশিং: উন্নত মানের সেলাই ও প্রিমিয়াম ফিনিশিং\nউপযোগিতা: শীতকালীন ব্যবহারের জন্য",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "v2p6xeh",
+          "name": "বেইজ",
+          "hex": "#d7b78f",
+          "imgs": [
+            "images/njk378mwuwl7bp.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "p0d1bk8",
+      "code": "RB-454",
+      "name": "Stylish Embroidery Hoodie",
+      "cat": "c-boys",
+      "sub": "s7yfjko",
+      "events": [
+        "e-winter"
+      ],
+      "price": 790,
+      "old": 1250,
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ],
+      "desc": "📌 Product Details\nফেব্রিক: কটন ওয়ান সাইড ব্রাশ\nGSM: ৩২০+ জিএসএম।\nডিজাইন: প্রিমিয়াম এম্ব্রডারি ডিজাইন\nকমফোর্ট: সফট, উষ্ণ ও আরামদায়ক\nফিনিশিং: উন্নত মানের সেলাই ও প্রিমিয়াম ফিনিশিং\nউপযোগিতা: শীতকালীন ব্যবহারের জন্য",
+      "soldOut": false,
+      "visible": true,
+      "featured": false,
+      "badge": "New",
+      "video": "",
+      "variants": [
+        {
+          "id": "v2xuugk",
+          "name": "সাদা",
+          "hex": "#f5f5f7",
+          "imgs": [
+            "images/lqz2lqmwuwl4hl.jpg"
+          ]
+        }
+      ]
+    },
+    {
       "id": "pwsx26x",
       "code": "RB-452",
       "name": "Stylish Denim Shirt",
